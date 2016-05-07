@@ -31,3 +31,16 @@ PWA = Progressive Web App
 - | Chrome PDF viewer | `x.x.x` | |
 - | Chrome Downloads | `1.2.4` | |
 [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.2.4` | |
+
+## Other
+
+      | Name | Polymer version | PWA | Source
+:---: | :--- | --------------: | :-: | -----:
+[:link:](https://customelements.io) | CustomElements | `1.1.3` | | [Source](https://github.com/customelements/www)
+[:link:](https://www.mashme.io) | MashmeTV | `1.2.4` | |
+[:link:](http://www.battlefield.com) | BattleField | `1.4.0` | |
+[:link:](https://moderndeveloper.com) | Modern Developer | `0.5.5` | |
+[:link:](https://bluemesh.com) | BlueMesh | `1.2.4` | |
+[:link:](http://kune.cc) | Kune | `0.5.4` | | [Source](https://github.com/comunes/kune)
+[:link:](https://www.bithound.io) | bitHound | `1.2.4` | |
+[:link:](https://braid.io) | Braid | `1.2.3` | |
