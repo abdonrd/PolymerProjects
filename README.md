@@ -42,6 +42,7 @@ PWA = Progressive Web App
 [:link:](https://www.mashme.io) | MashmeTV | `1.2.4` | |
 [:link:](http://www.battlefield.com) | BattleField | `1.4.0` | |
 [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.4.0` | | [Source](https://github.com/vaadin)
+[:link:](https://areafiftylan.nl) | AreaFiftyLAN | `1.4.0` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend)
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.4.0` | | [Source](https://github.com/home-assistant/home-assistant)
 [:link:](https://moderndeveloper.com) | Modern Developer | `0.5.5` | |
 [:link:](https://bluemesh.com) | BlueMesh | `1.2.4` | |
