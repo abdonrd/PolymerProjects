@@ -23,3 +23,11 @@ PWA = Progressive Web App
 [:link:](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2.3` | | [Source](https://github.com/google/santa-tracker-web)
 [:link:](http://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | |
 [:link:](https://lightsaber.withgoogle.com) | Star Wars Lightsaber Escape | `1.2.3` | |
+[:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.4.0` | |
+[:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `0.5.5` | |
+[:link:](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | |
+- | Chrome OS keyboard | `x.x.x` | |
+- | Chrome OS audio player | `x.x.x` | |
+- | Chrome PDF viewer | `x.x.x` | |
+- | Chrome Downloads | `1.2.4` | |
+[:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.2.4` | |
