@@ -30,7 +30,7 @@ PWA = Progressive Web App
 [:link:](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | |
 - | Chrome OS keyboard | `x.x.x` | |
 - | Chrome OS audio player | `x.x.x` | |
-- | Chrome PDF viewer | `x.x.x` | | [Source](https://chromium.googlesource.com/chromium/src/+/176d2695715c1efc8f57fdcc9532292bacaef838/chrome/browser/resources/pdf)
+- | Chrome PDF viewer | `x.x.x` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf)
 - | Chrome Downloads | `1.2.4` | |
 [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.2.4` | |
 
