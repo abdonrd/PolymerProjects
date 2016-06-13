@@ -40,6 +40,7 @@ PWA = Progressive Web App
 :---: | :--- | --------------: | :-: | -----:
 [:link:](https://customelements.io) | CustomElements | `1.1.3` | | [Source](https://github.com/customelements/www)
 [:link:](https://www.mashme.io) | MashmeTV | `1.2.4` | |
+[:link:](http://www.ea.com) | Electronic Arts | `1.5.0` | |
 [:link:](http://www.battlefield.com) | BattleField | `1.4.0` | |
 [:link:](https://www.cerberusapp.com) | Cerberus | `1.4.0` | |
 [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.4.0` | | [Source](https://github.com/vaadin)
