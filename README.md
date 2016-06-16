@@ -42,11 +42,11 @@ PWA = Progressive Web App
 [:link:](https://www.mashme.io) | MashmeTV | `1.2.4` | |
 [:link:](http://www.ea.com) | Electronic Arts | `1.5.0` | |
 [:link:](http://www.battlefield.com) | BattleField | `1.4.0` | |
-[:link:](https://www.cerberusapp.com) | Cerberus | `1.4.0` | |
-[:link:](https://vaadin.com/elements) | Vaadin Elements | `1.4.0` | | [Source](https://github.com/vaadin)
+[:link:](https://www.cerberusapp.com) | Cerberus | `1.5.0` | |
+[:link:](https://vaadin.com/elements) | Vaadin Elements | `1.5.0` | | [Source](https://github.com/vaadin)
 [:link:](https://areafiftylan.nl) | AreaFiftyLAN | `1.4.0` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend)
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.4.0` | | [Source](https://github.com/home-assistant/home-assistant)
-[:link:](https://kongax.konga.com) | Konga EZ | `1.4.0` | :heavy_check_mark: |
+[:link:](https://kongax.konga.com) | Konga EZ | `1.5.0` | :heavy_check_mark: |
 [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2.4` | |
 [:link:](https://snapdrop.net) | Snapdrop | `1.2.3` | | [Source](https://github.com/RobinLinus/snapdrop)
 [:link:](https://www.letsride.com.au) | Let's Ride | `1.0.2` | |
