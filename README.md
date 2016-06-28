@@ -55,3 +55,6 @@ PWA = Progressive Web App
 [:link:](http://kune.cc) | Kune | `0.5.4` | | [Source](https://github.com/comunes/kune)
 [:link:](https://www.bithound.io) | bitHound | `1.2.4` | |
 [:link:](https://braid.io) | Braid | `1.2.3` | |
+[:link:](http://www.bloomberg.com) | Bloomberg | `1.3.0` | |
+[:link:](https://home.xfinity.com) | XFINITY Home | `1.4.0` | |
+[:link:](https://padlock.io) | Padlock | `1.2.1` | | [Source](https://github.com/maklesoft/padlock)
