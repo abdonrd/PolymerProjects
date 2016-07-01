@@ -58,4 +58,4 @@ PWA = Progressive Web App
 [:link:](http://www.bloomberg.com) | Bloomberg | `1.3.0` | |
 [:link:](https://home.xfinity.com) | XFINITY Home | `1.4.0` | |
 [:link:](https://padlock.io) | Padlock | `1.2.1` | | [Source](https://github.com/maklesoft/padlock)
-[:link:](https://padlock.io) | Padlock | `1.5.0` | :heavy_check_mark: | [Source](https://realtimestockscreener.com/)
+[:link:](https://realtimestockscreener.io) | Realtime Stock Screener | `1.5.0` | :heavy_check_mark: | [Source](https://github.com/anandanand84/pwa-competition/)
