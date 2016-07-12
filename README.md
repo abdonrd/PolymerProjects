@@ -59,3 +59,4 @@ PWA = Progressive Web App
 [:link:](https://home.xfinity.com) | XFINITY Home | `1.4.0` | |
 [:link:](https://padlock.io) | Padlock | `1.2.1` | | [Source](https://github.com/maklesoft/padlock)
 [:link:](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5.0` | :heavy_check_mark: | [Source](https://github.com/anandanand84/pwa-competition/)
+[:link:](https://new-console.ng.bluemix.net) | IBM Bluemix new console | `1.0.0` | |
