@@ -39,25 +39,25 @@ PWA = Progressive Web App
 
       | Name | Polymer version | PWA | Source
 :---: | :--- | --------------: | :-: | -----:
-[:link:](https://customelements.io) | CustomElements | `1.1.3` | | [Source](https://github.com/customelements/www)
-[:link:](https://www.syncrtc.com) | SyncRTC | `1.5.0` | |
-[:link:](http://www.ea.com) | Electronic Arts | `1.6.0` | |
-[:link:](http://www.battlefield.com) | BattleField | `1.6.0` | |
-[:link:](https://www.cerberusapp.com) | Cerberus | `1.6.0` | |
-[:link:](https://vaadin.com/elements) | Vaadin Elements | `1.6.1` | | [Source](https://github.com/vaadin)
 [:link:](https://areafiftylan.nl) | AreaFiftyLAN | `1.4.0` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend)
+[:link:](http://www.battlefield.com) | BattleField | `1.6.0` | |
+[:link:](http://www.bloomberg.com) | Bloomberg | `1.3.0` | |
+[:link:](https://bluemesh.com) | BlueMesh | `1.4.0` | |
+[:link:](https://braid.io) | Braid | `1.2.3` | |
+[:link:](https://www.cerberusapp.com) | Cerberus | `1.6.0` | |
+[:link:](https://customelements.io) | CustomElements | `1.1.3` | | [Source](https://github.com/customelements/www)
+[:link:](http://www.ea.com) | Electronic Arts | `1.6.0` | |
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6.0` | | [Source](https://github.com/home-assistant/home-assistant)
+[:link:](https://new-console.ng.bluemix.net) | IBM Bluemix new console | `1.0.0` | |
 [:link:](https://kongax.konga.com) | Konga EZ | `1.5.0` | :heavy_check_mark: |
-[:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2.4` | |
-[:link:](https://snapdrop.net) | Snapdrop | `1.2.3` | | [Source](https://github.com/RobinLinus/snapdrop)
+[:link:](http://kune.cc) | Kune | `0.5.4` | | [Source](https://github.com/comunes/kune)
 [:link:](https://www.letsride.com.au) | Let's Ride | `1.0.2` | |
 [:link:](https://moderndeveloper.com) | Modern Developer | `0.5.5` | |
-[:link:](https://bluemesh.com) | BlueMesh | `1.4.0` | |
-[:link:](http://kune.cc) | Kune | `0.5.4` | | [Source](https://github.com/comunes/kune)
-[:link:](https://www.bithound.io) | bitHound | `1.2.4` | |
-[:link:](https://braid.io) | Braid | `1.2.3` | |
-[:link:](http://www.bloomberg.com) | Bloomberg | `1.3.0` | |
-[:link:](https://home.xfinity.com) | XFINITY Home | `1.4.0` | |
+[:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2.4` | |
 [:link:](https://padlock.io) | Padlock | `1.2.1` | | [Source](https://github.com/maklesoft/padlock)
 [:link:](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5.0` | :heavy_check_mark: | [Source](https://github.com/anandanand84/pwa-competition/)
-[:link:](https://new-console.ng.bluemix.net) | IBM Bluemix new console | `1.0.0` | |
+[:link:](https://snapdrop.net) | Snapdrop | `1.2.3` | | [Source](https://github.com/RobinLinus/snapdrop)
+[:link:](https://www.syncrtc.com) | SyncRTC | `1.5.0` | |
+[:link:](https://vaadin.com/elements) | Vaadin Elements | `1.6.1` | | [Source](https://github.com/vaadin)
+[:link:](https://home.xfinity.com) | XFINITY Home | `1.4.0` | |
+[:link:](https://www.bithound.io) | bitHound | `1.2.4` | |
