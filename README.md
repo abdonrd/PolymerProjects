@@ -49,6 +49,7 @@ PWA = Progressive Web App
 [:link:](http://www.ea.com) | Electronic Arts | `1.6.0` | |
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6.0` | | [Source](https://github.com/home-assistant/home-assistant)
 [:link:](https://new-console.ng.bluemix.net) | IBM Bluemix new console | `1.0.0` | |
+[:link:](https://apps.kano.me) | Kano | `1.6.0` | :heavy_check_mark: |
 [:link:](https://kongax.konga.com) | Konga EZ | `1.5.0` | :heavy_check_mark: |
 [:link:](http://kune.cc) | Kune | `0.5.4` | | [Source](https://github.com/comunes/kune)
 [:link:](https://www.letsride.com.au) | Let's Ride | `1.0.2` | |
