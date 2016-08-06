@@ -45,6 +45,7 @@ PWA = Progressive Web App
 [:link:](https://bluemesh.com) | BlueMesh | `1.4.0` | |
 [:link:](https://braid.io) | Braid | `1.2.3` | |
 [:link:](https://www.cerberusapp.com) | Cerberus | `1.6.0` | |
+[:link:](https://www.cloudstitch.com) | Cloudstitch | `1.5.0` | |
 [:link:](https://customelements.io) | CustomElements | `1.1.3` | | [Source](https://github.com/customelements/www)
 [:link:](http://www.ea.com) | Electronic Arts | `1.6.0` | |
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6.0` | | [Source](https://github.com/home-assistant/home-assistant)
