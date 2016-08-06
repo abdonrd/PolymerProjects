@@ -10,6 +10,7 @@ PWA = Progressive Web App
 :---: | :--- | --------------: | :-: | -----:
 [:link:](https://www.polymer-project.org) | Polymer | `1.6.0` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs)
 [:link:](https://elements.polymer-project.org/) | Polymer Element Catalog | `1.6.0` | | [Source](https://github.com/Polymer/polymer-element-catalog)
+[:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1.1` | |
 [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1.4` | |
 [:link:](https://events.google.com/io2015) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015)
 [:link:](https://events.google.com/io2016) | Google I/O 2016 | `1.4.0` | :heavy_check_mark:
