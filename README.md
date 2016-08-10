@@ -37,6 +37,8 @@ PWA = Progressive Web App
 
 ## Other
 
+Sorted alphabetically
+
       | Name | Polymer version | PWA | Source
 :---: | :--- | --------------: | :-: | -----:
 [:link:](https://areafiftylan.nl) | AreaFiftyLAN | `1.4.0` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend)
