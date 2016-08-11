@@ -56,6 +56,7 @@ Sorted alphabetically
 [:link:](https://kongax.konga.com) | Konga EZ | `1.5.0` | :heavy_check_mark: |
 [:link:](http://kune.cc) | Kune | `0.5.4` | | [Source](https://github.com/comunes/kune)
 [:link:](https://www.letsride.com.au) | Let's Ride | `1.0.2` | |
+[:link:](https://meatscope.camera) | Meatscope | `1.5.0` | :heavy_check_mark: | [Source](https://github.com/cdata/meat-scope)
 [:link:](https://moderndeveloper.com) | Modern Developer | `0.5.5` | |
 [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2.4` | |
 [:link:](https://padlock.io) | Padlock | `1.2.1` | | [Source](https://github.com/maklesoft/padlock)
