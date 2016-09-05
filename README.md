@@ -65,5 +65,6 @@ Sorted alphabetically
 [:link:](https://www.syncrtc.com) | SyncRTC | `1.5.0` | |
 [:link:](https://rio16.usatoday.com/olympics-rio-2016/schedule-results) | USAToday - Rio 2016 Olympics Schedule and Results | `1.6.1` | |
 [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.6.1` | | [Source](https://github.com/vaadin)
+[:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5.0` | |
 [:link:](https://home.xfinity.com) | XFINITY Home | `1.4.0` | |
 [:link:](https://www.bithound.io) | bitHound | `1.2.4` | |
