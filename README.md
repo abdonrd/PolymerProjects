@@ -67,4 +67,5 @@ Sorted alphabetically
 [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.6` | | [Source](https://github.com/vaadin)
 [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | |
 [:link:](https://home.xfinity.com) | XFINITY Home | `1.4` | |
+[:link:](https://zeplin.io) | Zeplin | `1.0` | |
 [:link:](https://www.bithound.io) | bitHound | `1.2` | |
