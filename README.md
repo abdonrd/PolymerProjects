@@ -21,6 +21,7 @@ PWA = Progressive Web App
 [:link:](https://patents.google.com) | Google Patents | `1.6` | |
 [:link:](https://play.google.com/music) | Google Play Music | `1.6` | |
 [:link:](https://translate.google.com/community) | Google Translate Community | `1.6` | |
+[:link:](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.6` | |
 [:link:](https://fi.google.com) | Project Fi | `0.5.5` | |
 [:link:](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web)
 [:link:](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2` | | [Source](https://github.com/google/santa-tracker-web)
