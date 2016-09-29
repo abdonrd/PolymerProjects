@@ -47,6 +47,7 @@ Sorted alphabetically
 [:link:](http://www.bloomberg.com) | Bloomberg | `1.3` | |
 [:link:](https://bluemesh.com) | BlueMesh | `1.6` | |
 [:link:](https://braid.io) | Braid | `1.2` | |
+[:link:](https://www.catminingexperience.com) | Caterpillar - MINExpo 2016 | `1.6` | |
 [:link:](https://www.cerberusapp.com) | Cerberus | `1.6` | |
 [:link:](https://www.cloudstitch.com) | Cloudstitch | `1.5` | |
 [:link:](https://customelements.io) | CustomElements | `1.1` | | [Source](https://github.com/customelements/www)
