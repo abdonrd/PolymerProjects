@@ -68,6 +68,7 @@ Sorted alphabetically
 [:link:](https://rio16.usatoday.com/olympics-rio-2016/schedule-results) | USAToday - Rio 2016 Olympics Schedule and Results | `1.6` | |
 [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.6` | | [Source](https://github.com/vaadin)
 [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | |
-[:link:](https://home.xfinity.com) | XFINITY Home | `1.4` | |
+[:link:](https://home.xfinity.com) | XFINITY Home | `1.6` | |
+[:link:](https://tv.xfinity.com) | XFINITY TV | `1.6` | |
 [:link:](https://zeplin.io) | Zeplin | `1.0` | |
 [:link:](https://www.bithound.io) | bitHound | `1.2` | |
