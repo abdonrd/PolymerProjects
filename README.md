@@ -52,6 +52,7 @@ Sorted alphabetically
 [:link:](https://www.cloudstitch.com) | Cloudstitch | `1.5` | |
 [:link:](https://customelements.io) | CustomElements | `1.1` | | [Source](https://github.com/customelements/www)
 [:link:](http://www.ea.com) | Electronic Arts | `1.6` | |
+[:link:](https://frontend.directory) | Frontend Directory | `1.6` | |
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer)
 [:link:](https://new-console.ng.bluemix.net) | IBM Bluemix new console | `1.0` | |
 [:link:](https://apps.kano.me) | Kano | `1.6` | :heavy_check_mark: |
