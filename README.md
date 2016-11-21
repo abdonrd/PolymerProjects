@@ -44,6 +44,7 @@ Sorted alphabetically
 :---: | :--- | --------------: | :-: | -----:
 [:link:](https://areafiftylan.nl) | AreaFiftyLAN | `1.7` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend)
 [:link:](http://www.battlefield.com) | BattleField | `1.7` | |
+[:link:](https://www.bithound.io) | bitHound | `1.2` | |
 [:link:](http://www.bloomberg.com) | Bloomberg | `1.3` | |
 [:link:](https://bluemesh.com) | BlueMesh | `1.6` | |
 [:link:](https://braid.io) | Braid | `1.2` | |
@@ -73,4 +74,3 @@ Sorted alphabetically
 [:link:](https://home.xfinity.com) | XFINITY Home | `1.6` | |
 [:link:](https://tv.xfinity.com) | XFINITY TV | `1.6` | |
 [:link:](https://zeplin.io) | Zeplin | `1.0` | |
-[:link:](https://www.bithound.io) | bitHound | `1.2` | |
