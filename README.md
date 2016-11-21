@@ -71,6 +71,7 @@ Sorted alphabetically
 [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.6` | | [Source](https://github.com/vaadin)
 [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.7` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo)
 [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | |
+[:link:](http://beta.webcomponents.org) | WebComponents.org (beta) | `1.7` | :heavy_check_mark: | [Source](https://github.com/webcomponents/beta)
 [:link:](https://home.xfinity.com) | XFINITY Home | `1.6` | |
 [:link:](https://tv.xfinity.com) | XFINITY TV | `1.6` | |
 [:link:](https://zeplin.io) | Zeplin | `1.0` | |
