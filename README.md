@@ -35,6 +35,7 @@ PWA = Progressive Web App
 - | Chrome OS audio player | `x.x` | |
 - | Chrome PDF viewer | `1.6` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf)
 - | Chrome Downloads | `1.6` | |
+[:link:](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.7` | | [Source](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard)
 [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.2` | |
 
 ## Other
