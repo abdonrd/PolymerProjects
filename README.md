@@ -47,7 +47,6 @@ Sorted alphabetically
 [:link:](https://areafiftylan.nl) | AreaFiftyLAN | `1.7` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend)
 [:link:](http://www.battlefield.com) | BattleField | `1.7` | |
 [:link:](https://www.bithound.io) | bitHound | `1.2` | |
-[:link:](http://www.bloomberg.com) | Bloomberg | `1.3` | |
 [:link:](https://bluemesh.com) | BlueMesh | `1.6` | |
 [:link:](https://braid.io) | Braid | `1.2` | |
 [:link:](https://www.catminingexperience.com) | Caterpillar - MINExpo 2016 | `1.6` | |
@@ -64,7 +63,6 @@ Sorted alphabetically
 [:link:](http://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune)
 [:link:](https://www.letsride.com.au) | Let's Ride | `1.0` | |
 [:link:](https://meatscope.camera) | Meatscope | `1.5` | :heavy_check_mark: | [Source](https://github.com/cdata/meat-scope)
-[:link:](https://moderndeveloper.com) | Modern Developer | `0.5.5` | |
 [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | |
 [:link:](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock)
 [:link:](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | :heavy_check_mark: | [Source](https://github.com/anandanand84/pwa-competition/)
