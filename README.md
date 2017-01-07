@@ -60,7 +60,7 @@ Sorted alphabetically
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer)
 [:link:](https://console.ng.bluemix.net) | IBM Bluemix console | `1.0` | |
 [:link:](https://apps.kano.me) | Kano | `1.6` | :heavy_check_mark: |
-[:link:](https://kongax.konga.com) | Konga EZ | `1.5` | :heavy_check_mark: |
+[:link:](https://kongax.konga.com) | Konga EZ | `1.7` | :heavy_check_mark: |
 [:link:](http://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune)
 [:link:](https://www.letsride.com.au) | Let's Ride | `1.0` | |
 [:link:](https://meatscope.camera) | Meatscope | `1.5` | :heavy_check_mark: | [Source](https://github.com/cdata/meat-scope)
@@ -76,6 +76,6 @@ Sorted alphabetically
 [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.7` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo)
 [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | |
 [:link:](http://beta.webcomponents.org) | WebComponents.org (beta) | `1.7` | :heavy_check_mark: | [Source](https://github.com/webcomponents/beta)
-[:link:](https://home.xfinity.com) | XFINITY Home | `1.6` | |
-[:link:](https://tv.xfinity.com) | XFINITY TV | `1.6` | |
+[:link:](https://home.xfinity.com) | XFINITY Home | `1.7` | |
+[:link:](https://tv.xfinity.com) | XFINITY TV | `1.7` | |
 [:link:](https://zeplin.io) | Zeplin | `1.0` | |
