@@ -69,6 +69,7 @@ Sorted alphabetically
 [:link:](https://snapdrop.net) | Snapdrop | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop)
 [:link:](https://www.syncrtc.com) | SyncRTC | `1.5` | |
 [:link:](http://travelto.live) | Travel to Live | `1.6` | |
+[:link:](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/ubuntudesign/tutorials.ubuntu.com)
 [:link:](https://rio16.usatoday.com/olympics-rio-2016/schedule-results) | USAToday - Rio 2016 Olympics Schedule and Results | `1.6` | |
 [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.6` | | [Source](https://github.com/vaadin)
 [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.7` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo)
