@@ -78,3 +78,4 @@ Sorted alphabetically
 [:link:](https://home.xfinity.com) | XFINITY Home | `1.7` | |
 [:link:](https://tv.xfinity.com) | XFINITY TV | `1.7` | |
 [:link:](https://zeplin.io) | Zeplin | `1.0` | |
+[:link:](https://zeppidy.com) | Zeppidy | `1.7` | |
