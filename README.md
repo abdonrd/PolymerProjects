@@ -57,6 +57,7 @@ Sorted alphabetically
 [:link:](http://www.ea.com) | Electronic Arts | `1.7` | |
 [:link:](https://frontend.directory) | Frontend Directory | `1.6` | |
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer)
+[:link:](https://lookbook.hp.com/us/en/) | HP Lookbook | `1.7` | |
 [:link:](https://console.ng.bluemix.net) | IBM Bluemix console | `1.0` | |
 [:link:](https://apps.kano.me) | Kano | `1.6` | :heavy_check_mark: |
 [:link:](https://kongax.konga.com) | Konga EZ | `1.7` | :heavy_check_mark: |
