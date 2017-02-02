@@ -26,6 +26,7 @@ PWA = Progressive Web App
 [:link:](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web)
 [:link:](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2` | | [Source](https://github.com/google/santa-tracker-web)
 [:link:](https://santatracker.google.com) | Google Santa Tracker 2016 | `1.7` | | [Source](https://github.com/google/santa-tracker-web)
+[:link:](https://sites.google.com/new) | Google Sites | `1.7` | |
 [:link:](http://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | |
 [:link:](https://lightsaber.withgoogle.com) | Star Wars Lightsaber Escape | `1.2` | |
 [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.7` | | [Source](https://github.com/GoogleChrome/chromium-dashboard)
