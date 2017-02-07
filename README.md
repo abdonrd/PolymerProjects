@@ -57,6 +57,7 @@ Sorted alphabetically
 [:link:](https://customelements.io) | CustomElements | `1.1` | | [Source](https://github.com/customelements/www)
 [:link:](http://www.ea.com) | Electronic Arts | `1.7` | |
 [:link:](https://frontend.directory) | Frontend Directory | `1.6` | |
+[:link:](http://commongarden.org) | Grow-IoT - An interoperable, FOSS framework for the Web of Things. | `1.7` | | [Source](https://github.com/CommonGarden/Grow-IoT/)
 [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer)
 [:link:](https://lookbook.hp.com/us/en/) | HP Lookbook | `1.7` | |
 [:link:](https://console.ng.bluemix.net) | IBM Bluemix console | `1.0` | |
@@ -70,6 +71,7 @@ Sorted alphabetically
 [:link:](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | :heavy_check_mark: | [Source](https://github.com/anandanand84/pwa-competition/)
 [:link:](https://snapdrop.net) | Snapdrop | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop)
 [:link:](https://www.syncrtc.com) | SyncRTC | `1.5` | |
+[:link:](https://ww8.herokuapp.com) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.7` | | [Source](https://github.com/vcompile/Torrent-Alert)
 [:link:](http://travelto.live) | Travel to Live | `1.6` | |
 [:link:](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/ubuntudesign/tutorials.ubuntu.com)
 [:link:](https://rio16.usatoday.com/olympics-rio-2016/schedule-results) | USAToday - Rio 2016 Olympics Schedule and Results | `1.6` | |
