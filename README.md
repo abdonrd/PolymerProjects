@@ -8,7 +8,7 @@ PWA = Progressive Web App
 
 |     | Name | Polymer version | PWA | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [:link:](https://www.polymer-project.org) | Polymer | `1.7` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
+| [:link:](https://www.polymer-project.org) | Polymer | `1.8` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
 | [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.7` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
 | [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
@@ -29,7 +29,7 @@ PWA = Progressive Web App
 | [:link:](https://sites.google.com/new) | Google Sites | `1.7` | | |
 | [:link:](http://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
 | [:link:](https://lightsaber.withgoogle.com) | Star Wars Lightsaber Escape | `1.2` | | |
-| [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.7` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
+| [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.8` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
 | [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.6` | | |
 | [:link:](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
 | - | Chrome OS keyboard | `x.x` | | |
@@ -79,7 +79,7 @@ Sorted alphabetically
 | [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.6` | | [Source](https://github.com/vaadin) |
 | [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.7` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
-| [:link:](http://beta.webcomponents.org) | WebComponents.org | `1.7` | :heavy_check_mark: | [Source](https://github.com/webcomponents/beta) |
+| [:link:](http://webcomponents.org) | WebComponents.org | `1.8` | :heavy_check_mark: | [Source](https://github.com/webcomponents/webcomponents.org) |
 | [:link:](https://home.xfinity.com) | XFINITY Home | `1.7` | | |
 | [:link:](https://tv.xfinity.com) | XFINITY TV | `1.7` | | |
 | [:link:](https://zeplin.io) | Zeplin | `1.0` | | |
