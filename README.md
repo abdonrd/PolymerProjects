@@ -66,6 +66,7 @@ Sorted alphabetically
 | [:link:](https://kongax.konga.com) | Konga EZ | `1.7` | :heavy_check_mark: | |
 | [:link:](http://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
 | [:link:](https://www.letsride.com.au) | Let's Ride | `1.0` | | |
+| [:link:](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
 | [:link:](https://meatscope.camera) | Meatscope | `1.5` | :heavy_check_mark: | [Source](https://github.com/cdata/meat-scope) |
 | [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
 | [:link:](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
