@@ -8,13 +8,13 @@ PWA = Progressive Web App
 
 |     | Name | Polymer version | PWA | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| - | Chrome Downloads | `1.6` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
+| - | Chrome Downloads | `1.8` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
 | [:link:](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
-| - | Chrome History | `1.6` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
+| - | Chrome History | `1.8` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
 | - | Chrome OS audio player | `x.x` | | |
 | - | Chrome OS keyboard | `x.x` | | |
-| - | Chrome PDF viewer | `1.6` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
-| [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.6` | | |
+| - | Chrome PDF viewer | `1.8` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
+| [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.8` | | |
 | [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.8` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
 | [:link:](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` | :heavy_check_mark: | |
 | [:link:](https://earth.google.com/web/) | Google Earth | `1.8` | | |
@@ -32,7 +32,7 @@ PWA = Progressive Web App
 | [:link:](https://translate.google.com/community) | Google Translate Community | `1.8` | | |
 | [:link:](http://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
 | [:link:](https://www.polymer-project.org) | Polymer | `1.8` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
-| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.7` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
+| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
 | [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
 | [:link:](https://fi.google.com) | Project Fi | `1.8` | | |
