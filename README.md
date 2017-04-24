@@ -8,37 +8,37 @@ PWA = Progressive Web App
 
 |     | Name | Polymer version | PWA | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [:link:](https://www.polymer-project.org) | Polymer | `1.8` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
-| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.7` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
-| [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
-| [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
-| [:link:](https://events.google.com/io2015) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
-| [:link:](https://events.google.com/io2016) | Google I/O 2016 | `1.4` | :heavy_check_mark: |
-| [:link:](https://io2014codelabs.appspot.com) | Google I/O 2014 Codelabs | `0.3.1` | | [Source](https://github.com/googlesamples/io2014-codelabs) |
-| [:link:](https://io2015codelabs.appspot.com) | Google I/O 2015 Codelabs | `0.5.5` | | [Source](https://github.com/googlesamples/io2015-codelabs) |
+| - | Chrome Downloads | `1.6` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
+| [:link:](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
+| - | Chrome History | `1.6` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
+| - | Chrome OS audio player | `x.x` | | |
+| - | Chrome OS keyboard | `x.x` | | |
+| - | Chrome PDF viewer | `1.6` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
+| [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.6` | | |
+| [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.8` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
 | [:link:](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` | :heavy_check_mark: | |
-| [:link:](https://gaming.youtube.com) | YouTube Gaming | `1.8` | | |
+| [:link:](https://io2014codelabs.appspot.com) | Google I/O 2014 Codelabs | `0.3.1` | | [Source](https://github.com/googlesamples/io2014-codelabs) |
+| [:link:](https://events.google.com/io2015) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
+| [:link:](https://io2015codelabs.appspot.com) | Google I/O 2015 Codelabs | `0.5.5` | | [Source](https://github.com/googlesamples/io2015-codelabs) |
+| [:link:](https://events.google.com/io2016) | Google I/O 2016 | `1.4` | :heavy_check_mark: |
+| [:link:](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
 | [:link:](https://patents.google.com) | Google Patents | `1.8` | | |
 | [:link:](https://play.google.com/music) | Google Play Music | `1.8` | | |
-| [:link:](https://translate.google.com/community) | Google Translate Community | `1.8` | | |
-| [:link:](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
-| [:link:](https://fi.google.com) | Project Fi | `1.8` | | |
 | [:link:](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web) |
 | [:link:](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2` | | [Source](https://github.com/google/santa-tracker-web) |
 | [:link:](https://santatracker.google.com) | Google Santa Tracker 2016 | `1.7` | | [Source](https://github.com/google/santa-tracker-web) |
 | [:link:](https://sites.google.com/new) | Google Sites | `1.8` | | |
+| [:link:](https://translate.google.com/community) | Google Translate Community | `1.8` | | |
 | [:link:](http://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
+| [:link:](https://www.polymer-project.org) | Polymer | `1.8` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
+| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.7` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
+| [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
+| [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
+| [:link:](https://fi.google.com) | Project Fi | `1.8` | | |
 | [:link:](https://lightsaber.withgoogle.com) | Star Wars Lightsaber Escape | `1.2` | | |
-| [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.8` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
-| [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.6` | | |
-| [:link:](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
-| - | Chrome OS keyboard | `x.x` | | |
-| - | Chrome OS audio player | `x.x` | | |
-| - | Chrome PDF viewer | `1.6` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
-| - | Chrome Downloads | `1.6` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
-| - | Chrome History | `1.6` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
 | [:link:](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.8` | | [Source](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard) |
 | [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.2` | | |
+| [:link:](https://gaming.youtube.com) | YouTube Gaming | `1.8` | | |
 
 ## Other
 
