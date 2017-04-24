@@ -17,6 +17,7 @@ PWA = Progressive Web App
 | [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.6` | | |
 | [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.8` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
 | [:link:](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` | :heavy_check_mark: | |
+| [:link:](https://earth.google.com/web/) | Google Earth | `1.8` | | |
 | [:link:](https://io2014codelabs.appspot.com) | Google I/O 2014 Codelabs | `0.3.1` | | [Source](https://github.com/googlesamples/io2014-codelabs) |
 | [:link:](https://events.google.com/io2015) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
 | [:link:](https://io2015codelabs.appspot.com) | Google I/O 2015 Codelabs | `0.5.5` | | [Source](https://github.com/googlesamples/io2015-codelabs) |
