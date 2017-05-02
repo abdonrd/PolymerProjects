@@ -38,6 +38,7 @@ Projects using Polymer.
 | [:link:](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.8` | | [Source](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard) |
 | [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.2` | | |
 | [:link:](https://gaming.youtube.com) | YouTube Gaming | `1.8` | | |
+| [:link:](https://www.youtube.com) | YouTube | `1.9` | | |
 
 ## Other
 
