@@ -2,11 +2,9 @@
 
 Projects using Polymer.
 
-PWA = Progressive Web App
-
 ## Google
 
-|     | Name | Polymer version | PWA | Source |
+|     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
 | - | Chrome Downloads | `1.8` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
 | [:link:](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
@@ -45,7 +43,7 @@ PWA = Progressive Web App
 
 Sorted alphabetically
 
-|     | Name | Polymer version | PWA | Source |
+|     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
 | [:link:](https://areafiftylan.nl) | AreaFiftyLAN | `1.8` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend) |
 | [:link:](http://www.battlefield.com) | BattleField | `1.8` | | |
