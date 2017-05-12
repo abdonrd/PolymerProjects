@@ -55,7 +55,7 @@ Sorted alphabetically
 | [:link:](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
 | [:link:](https://www.cloudstitch.com) | Cloudstitch | `1.8` | | |
 | [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.8` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
-| [:link:](https://customelements.io) | CustomElements | `1.1` | | [Source](https://github.com/customelements/www) |
+| [:link:](https://customelements.io) | ~~CustomElements~~ | `1.1` | | [Source](https://github.com/customelements/www) |
 | [:link:](https://www.ea.com) | Electronic Arts | `1.8` | | |
 | [:link:](https://frontend.directory) | Frontend Directory | `1.6` | | |
 | [:link:](https://gitcheese.com) | Gitcheese | `1.9` | | [Source](https://github.com/gitcheese/gitcheese.ui) |
@@ -68,10 +68,12 @@ Sorted alphabetically
 | [:link:](https://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
 | [:link:](https://www.letsride.com.au) | Let's Ride | `1.0` | | |
 | [:link:](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
+| [:link:](https://www.masseffect.com) | Mass Effect | `1.8` | | |
 | [:link:](https://meatscope.camera) | Meatscope | `1.5` | :heavy_check_mark: | [Source](https://github.com/cdata/meat-scope) |
 | [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
 | [:link:](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
 | [:link:](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | :heavy_check_mark: | [Source](https://github.com/anandanand84/pwa-competition/) |
+| [:link:](https://www.ridygo.fr) | Ridygo | `1.9` | | |
 | [:link:](https://snapdrop.net) | Snapdrop | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
 | [:link:](https://www.syncrtc.com) | SyncRTC | `1.5` | | |
 | [:link:](https://ww8.herokuapp.com) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.8` | | [Source](https://github.com/vcompile/Torrent-Alert) |
