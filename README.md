@@ -58,6 +58,7 @@ Sorted alphabetically
 | [:link:](https://customelements.io) | CustomElements | `1.1` | | [Source](https://github.com/customelements/www) |
 | [:link:](http://www.ea.com) | Electronic Arts | `1.8` | | |
 | [:link:](https://frontend.directory) | Frontend Directory | `1.6` | | |
+| [:link:](https://frontend.directory) | Festilo - A mobile local shopping app | `1.05` | | |
 | [:link:](http://commongarden.org) | Grow-IoT - An interoperable, FOSS framework for the Web of Things. | `1.7` | | [Source](https://github.com/CommonGarden/Grow-IoT/) |
 | [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
 | [:link:](https://lookbook.hp.com/us/en/) | HP Lookbook | `1.8` | | |
