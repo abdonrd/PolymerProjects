@@ -1,6 +1,10 @@
 # PolymerProjects
 
-Projects using Polymer.
+### Projects using Polymer
+
+Here is a crowdsourced open list of Polymer Projects. Examples of complete working apps are difficult to find. But this list could help the community see some examples of how to put all the elements together into a working app.
+
+Please send a Pull Request to add to the list any other Polymer Projects you know.
 
 ## Google
 
@@ -54,7 +58,6 @@ Sorted alphabetically
 | [:link:](https://www.catminingexperience.com) | Caterpillar - MINExpo 2016 | `1.6` | | |
 | [:link:](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
 | [:link:](https://www.cloudstitch.com) | Cloudstitch | `1.8` | | |
-| - | Collaboration Tree (Demo) | `1.7` | :heavy_check_mark: | [Source](https://github.com/F4IF/ctree-demo)  |
 | [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.8` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
 | [:link:](https://customelements.io) | ~~CustomElements~~ | `1.1` | | [Source](https://github.com/customelements/www) |
 | [:link:](https://www.ea.com) | Electronic Arts | `1.8` | | |
