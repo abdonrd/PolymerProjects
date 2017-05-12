@@ -73,7 +73,7 @@ Sorted alphabetically
 | [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
 | [:link:](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
 | [:link:](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | :heavy_check_mark: | [Source](https://github.com/anandanand84/pwa-competition/) |
-| [:link:](https://www.ridygo.fr/) | Ridygo | `1.9` | | |
+| [:link:](https://www.ridygo.fr) | Ridygo | `1.9` | | |
 | [:link:](https://snapdrop.net) | Snapdrop | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
 | [:link:](https://www.syncrtc.com) | SyncRTC | `1.5` | | |
 | [:link:](https://ww8.herokuapp.com) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.8` | | [Source](https://github.com/vcompile/Torrent-Alert) |
