@@ -54,7 +54,7 @@ Sorted alphabetically
 | [:link:](https://www.catminingexperience.com) | Caterpillar - MINExpo 2016 | `1.6` | | |
 | [:link:](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
 | [:link:](https://www.cloudstitch.com) | Cloudstitch | `1.8` | | |
-| [:link:](https://github.com/F4IF/ctree-demo) | Collaboration Tree (Demo) | `1.7` | :heavy_check_mark: | [Source](https://github.com/F4IF/ctree-demo)  |
+| - | Collaboration Tree (Demo) | `1.7` | :heavy_check_mark: | [Source](https://github.com/F4IF/ctree-demo)  |
 | [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.8` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
 | [:link:](https://customelements.io) | CustomElements | `1.1` | | [Source](https://github.com/customelements/www) |
 | [:link:](http://www.ea.com) | Electronic Arts | `1.8` | | |
