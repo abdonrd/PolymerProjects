@@ -1,10 +1,6 @@
 # PolymerProjects
 
-### Projects using Polymer
-
-Here is a crowdsourced open list of Polymer Projects. Examples of complete working apps are difficult to find. But this list could help the community see some examples of how to put all the elements together into a working app.
-
-Please send a Pull Request to add to the list any other Polymer Projects you know.﻿
+Projects using Polymer.
 
 ## Google
 
