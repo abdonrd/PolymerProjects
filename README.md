@@ -32,6 +32,7 @@ Projects using Polymer.
 | [:link:](https://www.polymer-project.org) | Polymer | `1.8` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
 | [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
+| [:link:](https://shop.polymer-project.org/) | Polymer Shop App Demo | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/shop) |
 | [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
 | [:link:](https://fi.google.com) | Project Fi | `1.8` | | |
 | [:link:](https://lightsaber.withgoogle.com) | Star Wars Lightsaber Escape | `1.2` | | |
