@@ -82,7 +82,7 @@ Sorted alphabetically
 | [:link:](https://ww8.herokuapp.com) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.8` | | [Source](https://github.com/vcompile/Torrent-Alert) |
 | [:link:](https://travelto.live) | Travel to Live | `1.6` | | |
 | [:link:](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/ubuntudesign/tutorials.ubuntu.com) |
-| [:link:](https://rio16.usatoday.com/olympics-rio-2016/schedule-results) | USAToday - Rio 2016 Olympics Schedule and Results | `1.6` | | |
+| [:link:](https://www.usatoday.com) | USA Today | `1.8` | | |
 | [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.8` | | [Source](https://github.com/vaadin) |
 | [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.8` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
