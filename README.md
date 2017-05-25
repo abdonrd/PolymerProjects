@@ -2,8 +2,8 @@
 
 Projects using Polymer.
 
-#### Tip
-To find version number, type `Polymer.version` in the console.
+### Tip
+To find the Polymer version, run `Polymer.version` in the console.
 
 ## Google
 
