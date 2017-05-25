@@ -1,6 +1,10 @@
 # PolymerProjects
 
-Projects using Polymer.
+An open list of projects using Polymer.
+
+This list could help the community see some examples of how to create applications with Polymer.
+
+Please send a [Pull Request](https://github.com/abdonrd/PolymerProjects/compare) to add any other Polymer Projects you know.
 
 ### Tip
 To find the Polymer version, run `Polymer.version` in the console.
