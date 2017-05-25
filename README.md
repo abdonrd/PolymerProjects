@@ -56,9 +56,9 @@ Sorted alphabetically
 | [:link:](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
 | [:link:](https://www.cloudstitch.com) | Cloudstitch | `1.8` | | |
 | - | Collaboration Tree (Demo) | `1.7` | :heavy_check_mark: | [Source](https://github.com/F4IF/ctree-demo)  |
-| [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactHub | `1.8` | | |
+| [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.8` | | |
+| [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.8` | | |
 | [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.8` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
-| [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactPlan | `1.8` | | |
 | [:link:](https://customelements.io) | ~~CustomElements~~ | `1.1` | | [Source](https://github.com/customelements/www) |
 | [:link:](https://www.ea.com) | Electronic Arts | `1.8` | | |
 | [:link:](https://frontend.directory) | Frontend Directory | `1.6` | | |
