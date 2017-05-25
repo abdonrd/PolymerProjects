@@ -2,6 +2,9 @@
 
 Projects using Polymer.
 
+### Tip
+To find the Polymer version, run `Polymer.version` in the console.
+
 ## Google
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
