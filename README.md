@@ -7,7 +7,8 @@ This list could help the community see some examples of how to create applicatio
 Please send a [Pull Request](https://github.com/abdonrd/PolymerProjects/compare) to add any other Polymer Projects you know.
 
 ### Tip
-To find the Polymer version, run `Polymer.version` in the console.
+
+To find the Polymer version, run `Polymer.version` in the Developer Tools Console.
 
 ## Google
 
