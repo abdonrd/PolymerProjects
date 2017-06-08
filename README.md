@@ -17,7 +17,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
 | [:link:](https://www.polymer-project.org) | Polymer | `1.9` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
-| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
+| [:link:](https://elements.polymer-project.org) | ~~Polymer Element Catalog~~ (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [:link:](https://news.polymer-project.org) | Polymer News (demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/news) |
 | [:link:](https://shop.polymer-project.org) | Polymer Shop (demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/shop) |
 | [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
@@ -88,7 +88,7 @@ Sorted alphabetically
 | [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.8` | | |
 | [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.8` | | |
 | [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.8` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
-| [:link:](https://customelements.io) | ~~CustomElements~~ | `1.1` | | [Source](https://github.com/customelements/www) |
+| [:link:](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
 | [:link:](https://www.ea.com) | Electronic Arts | `1.8` | | |
 | [:link:](https://frontend.directory) | Frontend Directory | `1.6` | | |
 | [:link:](https://festilo.com) | Festilo - A mobile local shopping app | `1.7` | | |
