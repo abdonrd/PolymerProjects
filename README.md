@@ -11,6 +11,38 @@ To find the Polymer version, run `Polymer.version` in the console.
 
 ## Google
 
+### Polymer Project
+
+|     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
+| :-: | :--- | --------------: | :-: | -----: |
+| [:link:](https://www.polymer-project.org) | Polymer | `1.8` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
+| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
+| [:link:](https://news.polymer-project.org) | Polymer News (demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/news) |
+| [:link:](https://shop.polymer-project.org) | Polymer Shop (demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/shop) |
+| [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
+| [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
+| [:link:](https://webcomponents.org) | WebComponents.org | `1.8` | :heavy_check_mark: | [Source](https://github.com/webcomponents/webcomponents.org) |
+
+### Google products
+
+|     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
+| :-: | :--- | --------------: | :-: | -----: |
+| [:link:](https://earth.google.com/web/) | Google Earth | `1.8` | | |
+| [:link:](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
+| [:link:](https://patents.google.com) | Google Patents | `1.8` | | |
+| [:link:](https://play.google.com/music) | Google Play Music | `1.8` | | |
+| [:link:](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web) |
+| [:link:](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2` | | [Source](https://github.com/google/santa-tracker-web) |
+| [:link:](https://santatracker.google.com) | Google Santa Tracker 2016 | `1.7` | | [Source](https://github.com/google/santa-tracker-web) |
+| [:link:](https://sites.google.com/new) | Google Sites | `1.8` | | |
+| [:link:](https://translate.google.com/community) | Google Translate Community | `1.8` | | |
+| [:link:](https://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
+| [:link:](https://fi.google.com) | Project Fi | `1.8` | | |
+| [:link:](https://gaming.youtube.com) | YouTube Gaming | `1.8` | | |
+| [:link:](https://www.youtube.com) | YouTube | `1.9` | | |
+
+### Google Chrome
+
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
 | - | Chrome Downloads | `1.8` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
@@ -21,33 +53,19 @@ To find the Polymer version, run `Polymer.version` in the console.
 | - | Chrome PDF viewer | `1.8` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
 | [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.8` | | |
 | [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.8` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
+
+### Others
+
+|     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
+| :-: | :--- | --------------: | :-: | -----: |
 | [:link:](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` | :heavy_check_mark: | |
-| [:link:](https://earth.google.com/web/) | Google Earth | `1.8` | | |
 | [:link:](https://io2014codelabs.appspot.com) | Google I/O 2014 Codelabs | `0.3.1` | | [Source](https://github.com/googlesamples/io2014-codelabs) |
 | [:link:](https://events.google.com/io2015) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
 | [:link:](https://io2015codelabs.appspot.com) | Google I/O 2015 Codelabs | `0.5.5` | | [Source](https://github.com/googlesamples/io2015-codelabs) |
 | [:link:](https://events.google.com/io2016) | Google I/O 2016 | `1.4` | :heavy_check_mark: |
-| [:link:](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
-| [:link:](https://patents.google.com) | Google Patents | `1.8` | | |
-| [:link:](https://play.google.com/music) | Google Play Music | `1.8` | | |
-| [:link:](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web) |
-| [:link:](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2` | | [Source](https://github.com/google/santa-tracker-web) |
-| [:link:](https://santatracker.google.com) | Google Santa Tracker 2016 | `1.7` | | [Source](https://github.com/google/santa-tracker-web) |
-| [:link:](https://sites.google.com/new) | Google Sites | `1.8` | | |
-| [:link:](https://translate.google.com/community) | Google Translate Community | `1.8` | | |
-| [:link:](https://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
-| [:link:](https://www.polymer-project.org) | Polymer | `1.8` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
-| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
-| [:link:](https://news.polymer-project.org) | Polymer News (Demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/news) |
-| [:link:](https://shop.polymer-project.org) | Polymer Shop (Demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/shop) |
-| [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
-| [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
-| [:link:](https://fi.google.com) | Project Fi | `1.8` | | |
 | [:link:](https://lightsaber.withgoogle.com) | Star Wars Lightsaber Escape | `1.2` | | |
 | [:link:](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.8` | | [Source](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard) |
 | [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.2` | | |
-| [:link:](https://gaming.youtube.com) | YouTube Gaming | `1.8` | | |
-| [:link:](https://www.youtube.com) | YouTube | `1.9` | | |
 
 ## Other
 
@@ -99,7 +117,6 @@ Sorted alphabetically
 | [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.8` | | [Source](https://github.com/vaadin) |
 | [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.8` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
-| [:link:](https://webcomponents.org) | WebComponents.org | `1.8` | :heavy_check_mark: | [Source](https://github.com/webcomponents/webcomponents.org) |
 | [:link:](https://home.xfinity.com) | XFINITY Home | `1.7` | | |
 | [:link:](https://tv.xfinity.com) | XFINITY TV | `1.7` | | |
 | [:link:](https://zeplin.io) | Zeplin | `1.0` | | |
