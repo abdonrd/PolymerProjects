@@ -77,7 +77,6 @@ Sorted alphabetically
 | :-: | :--- | --------------: | :-: | -----: |
 | [:link:](https://areafiftylan.nl) | AreaFiftyLAN | `1.8` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend) |
 | [:link:](https://askapp-ddc29.firebaseapp.com) | AskApp | `1.7` | | [Source](https://bitbucket.org/jordanhope/askapp) |
-| [:link:](https://www.battlefield.com) | BattleField | `1.8` | | |
 | [:link:](https://www.bithound.io) | bitHound | `1.2` | | |
 | [:link:](https://bluemesh.com) | BlueMesh | `1.6` | | |
 | [:link:](https://braid.io) | Braid | `1.2` | | |
@@ -85,11 +84,14 @@ Sorted alphabetically
 | [:link:](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
 | [:link:](https://www.cloudstitch.com) | Cloudstitch | `1.8` | | |
 | - | Collaboration Tree (Demo) | `1.7` | :heavy_check_mark: | [Source](https://github.com/F4IF/ctree-demo)  |
+| [:link:](https://home.xfinity.com) | Comcast - XFINITY Home | `1.7` | | |
+| [:link:](https://tv.xfinity.com) | Comcast - XFINITY TV | `1.7` | | |
 | [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.8` | | |
 | [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.8` | | |
 | [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.8` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
 | [:link:](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
 | [:link:](https://www.ea.com) | Electronic Arts | `1.8` | | |
+| [:link:](https://www.battlefield.com) | Electronic Arts - BattleField | `1.8` | | |
 | [:link:](https://frontend.directory) | Frontend Directory | `1.6` | | |
 | [:link:](https://festilo.com) | Festilo - A mobile local shopping app | `1.7` | | |
 | [:link:](https://gitcheese.com) | Gitcheese | `1.9` | | [Source](https://github.com/gitcheese/gitcheese.ui) |
@@ -119,7 +121,5 @@ Sorted alphabetically
 | [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.8` | | [Source](https://github.com/vaadin) |
 | [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.8` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
-| [:link:](https://home.xfinity.com) | XFINITY Home | `1.7` | | |
-| [:link:](https://tv.xfinity.com) | XFINITY TV | `1.7` | | |
 | [:link:](https://zeplin.io) | Zeplin | `1.0` | | |
 | [:link:](https://zeppidy.com) | Zeppidy | `1.7` | | |
