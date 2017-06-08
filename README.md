@@ -90,8 +90,20 @@ Sorted alphabetically
 | [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.8` | | |
 | [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.8` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
 | [:link:](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
-| [:link:](https://www.ea.com) | Electronic Arts | `1.8` | | |
-| [:link:](https://www.battlefield.com) | Electronic Arts - BattleField | `1.8` | | |
+| [:link:](https://www.ea.com) | Electronic Arts | `1.9` | | |
+| [:link:](https://www.battlefield.com) | Electronic Arts - BattleField (website) | `1.9` | | |
+| [:link:](https://www.ea.com/games/starwars/battlefront/battlefront-2) | Electronic Arts - BattleFront II (website) | `1.9` | | |
+| [:link:](https://www.easports.com/fifa) | Electronic Arts - FIFA 18 (website) | `1.9` | | |
+| [:link:](https://www.easports.com/fifa/fifa-mobile) | Electronic Arts - FIFA Mobile (website) | `1.9` | | |
+| [:link:](https://www.easports.com/madden-nfl) | Electronic Arts - MADDEN 18 (website) | `1.9` | | |
+| [:link:](https://www.masseffect.com) | Electronic Arts - Mass Effect (website) | `1.9` | | |
+| [:link:](https://www.easports.com/nba-live) | Electronic Arts - NBA Live 18 (website) | `1.9` | | |
+| [:link:](https://www.easports.com/nhl) | Electronic Arts - NHL 18 (website) | `1.9` | | |
+| [:link:](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2) | Electronic Arts - Plants vs Zombies 2 (website) | `1.9` | | |
+| [:link:](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-heroes) | Electronic Arts - Plants vs Zombies Heroes (website) | `1.9` | | |
+| [:link:](https://www.ea.com/games/simcity/simcity-buildit) | Electronic Arts - SimCity BuildIt (website) | `1.9` | | |
+| [:link:](https://www.ea.com/games/starwars/galaxy-of-heroes) | Electronic Arts - Star Wars Galaxy of Heroes (website) | `1.9` | | |
+| [:link:](https://www.ea.com/games/titanfall/titanfall-2) | Electronic Arts - TitanFall II (website) | `1.9` | | |
 | [:link:](https://frontend.directory) | Frontend Directory | `1.6` | | |
 | [:link:](https://festilo.com) | Festilo - A mobile local shopping app | `1.7` | | |
 | [:link:](https://gitcheese.com) | Gitcheese | `1.9` | | [Source](https://github.com/gitcheese/gitcheese.ui) |
