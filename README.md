@@ -16,27 +16,27 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [:link:](https://www.polymer-project.org) | Polymer | `1.8` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
-| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
+| [:link:](https://www.polymer-project.org) | Polymer | `1.9` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
+| [:link:](https://elements.polymer-project.org) | Polymer Element Catalog (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [:link:](https://news.polymer-project.org) | Polymer News (demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/news) |
 | [:link:](https://shop.polymer-project.org) | Polymer Shop (demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/shop) |
 | [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
 | [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
-| [:link:](https://webcomponents.org) | WebComponents.org | `1.8` | :heavy_check_mark: | [Source](https://github.com/webcomponents/webcomponents.org) |
+| [:link:](https://webcomponents.org) | WebComponents.org | `1.9` | :heavy_check_mark: | [Source](https://github.com/webcomponents/webcomponents.org) |
 
 ### Google products
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [:link:](https://earth.google.com/web/) | Google Earth | `1.8` | | |
+| [:link:](https://earth.google.com/web/) | Google Earth | `1.9` | | |
 | [:link:](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
-| [:link:](https://patents.google.com) | Google Patents | `1.8` | | |
-| [:link:](https://play.google.com/music) | Google Play Music | `1.8` | | |
+| [:link:](https://patents.google.com) | Google Patents | `1.9` | | |
+| [:link:](https://play.google.com/music) | Google Play Music | `1.9` | | |
 | [:link:](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web) |
 | [:link:](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2` | | [Source](https://github.com/google/santa-tracker-web) |
 | [:link:](https://santatracker.google.com) | Google Santa Tracker 2016 | `1.7` | | [Source](https://github.com/google/santa-tracker-web) |
-| [:link:](https://sites.google.com/new) | Google Sites | `1.8` | | |
-| [:link:](https://translate.google.com/community) | Google Translate Community | `1.8` | | |
+| [:link:](https://sites.google.com/new) | Google Sites | `1.9` | | |
+| [:link:](https://translate.google.com/community) | Google Translate Community | `1.9` | | |
 | [:link:](https://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
 | [:link:](https://fi.google.com) | Project Fi | `1.8` | | |
 | [:link:](https://gaming.youtube.com) | YouTube Gaming | `1.8` | | |
@@ -53,7 +53,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | - | Chrome OS keyboard | `x.x` | | |
 | - | Chrome PDF viewer | `1.8` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
 | [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.8` | | |
-| [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.8` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
+| [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.9` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
 
 ### Others
 
