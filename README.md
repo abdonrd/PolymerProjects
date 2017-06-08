@@ -54,7 +54,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | - | Chrome PDF viewer | `1.8` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
 | [:link:](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.8` | | |
 | [:link:](https://www.chromestatus.com) | Chrome Platform Status | `1.9` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
-| - | Chrome Settings | `1.8` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/settings/)|
+| - | Chrome Settings | `1.8` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/settings/)|
 
 ### Others
 
