@@ -110,28 +110,27 @@ Sorted alphabetically
 | [:link:](http://commongarden.org) | Grow-IoT - An interoperable, FOSS framework for the Web of Things. | `1.7` | | [Source](https://github.com/CommonGarden/Grow-IoT/) |
 | [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
 | [:link:](https://lookbook.hp.com/us/en/) | HP Lookbook | `1.8` | | |
-| [:link:](https://console.ng.bluemix.net) | IBM Bluemix console | `1.0` | | |
+| [:link:](https://console.ng.bluemix.net) | IBM Bluemix console | `1.9` | | |
 | [:link:](https://apps.kano.me) | Kano | `1.8` | :heavy_check_mark: | |
 | [:link:](https://kongax.konga.com) | Konga EZ | `1.7` | :heavy_check_mark: | |
 | [:link:](https://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
 | [:link:](https://www.letsride.com.au) | Let's Ride | `1.0` | | |
 | [:link:](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
-| [:link:](https://www.masseffect.com) | Mass Effect | `1.8` | | |
 | [:link:](https://meatscope.camera) | Meatscope | `1.5` | :heavy_check_mark: | [Source](https://github.com/cdata/meat-scope) |
 | [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
 | [:link:](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
 | [:link:](https://pancake-cms.github.io) | Pancake CMS | `1.8` | | [Source](https://github.com/Pancake-CMS/Pancake-CMS.github.io) |
-| [:link:](https://polymer-admin.firebaseapp.com/) | Polymer Admin Dashboard | `1.1.4` | :heavy_check_mark: | [Source](https://github.com/akveo/polymer-admin) |
+| [:link:](https://polymer-admin.firebaseapp.com/) | Polymer Admin Dashboard | `1.1` | :heavy_check_mark: | [Source](https://github.com/akveo/polymer-admin) |
 | [:link:](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | :heavy_check_mark: | [Source](https://github.com/anandanand84/pwa-competition/) |
 | [:link:](https://www.ridygo.fr) | Ridygo | `1.9` | | |
 | [:link:](https://snapdrop.net) | Snapdrop | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
 | [:link:](https://www.syncrtc.com) | SyncRTC | `1.5` | | |
 | [:link:](https://ww8.herokuapp.com) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.8` | | [Source](https://github.com/vcompile/Torrent-Alert) |
-| [:link:](https://travelto.live) | Travel to Live | `1.6` | | |
+| [:link:](https://travelto.live) | Travel to Live | `1.9` | | |
 | [:link:](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/ubuntudesign/tutorials.ubuntu.com) |
 | [:link:](https://www.usatoday.com) | USA Today | `1.8` | | |
 | [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.8` | | [Source](https://github.com/vaadin) |
 | [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.8` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
 | [:link:](https://zeplin.io) | Zeplin | `1.0` | | |
-| [:link:](https://zeppidy.com) | Zeppidy | `1.7` | | |
+| [:link:](https://zeppidy.com) | Zeppidy | `1.8` | | |
