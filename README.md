@@ -118,6 +118,7 @@ Sorted alphabetically
 | [:link:](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
 | [:link:](https://meatscope.camera) | Meatscope | `1.5` | :heavy_check_mark: | [Source](https://github.com/cdata/meat-scope) |
 | [:link:](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
+| [:link:](https://www.olacabs.com) | Ola Cabs | `1.7` | :heavy_check_mark: | |
 | [:link:](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
 | [:link:](https://pancake-cms.github.io) | Pancake CMS | `1.8` | | [Source](https://github.com/Pancake-CMS/Pancake-CMS.github.io) |
 | [:link:](https://polymer-admin.firebaseapp.com/) | Polymer Admin Dashboard | `1.1` | :heavy_check_mark: | [Source](https://github.com/akveo/polymer-admin) |
