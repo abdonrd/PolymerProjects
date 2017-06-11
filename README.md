@@ -38,8 +38,8 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [:link:](https://sites.google.com/new) | Google Sites | `1.9` | | |
 | [:link:](https://translate.google.com/community) | Google Translate Community | `1.9` | | |
 | [:link:](https://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
-| [:link:](https://fi.google.com) | Project Fi | `1.8` | | |
-| [:link:](https://gaming.youtube.com) | YouTube Gaming | `1.8` | | |
+| [:link:](https://fi.google.com) | Project Fi | `1.9` | | |
+| [:link:](https://gaming.youtube.com) | YouTube Gaming | `1.9` | | |
 | [:link:](https://www.youtube.com) | YouTube | `1.9` | | |
 
 ### Google Chrome
