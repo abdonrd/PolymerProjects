@@ -86,9 +86,9 @@ Sorted alphabetically
 | - | Collaboration Tree (Demo) | `1.7` | :heavy_check_mark: | [Source](https://github.com/F4IF/ctree-demo)  |
 | [:link:](https://home.xfinity.com) | Comcast - XFINITY Home | `1.7` | | |
 | [:link:](https://tv.xfinity.com) | Comcast - XFINITY TV | `1.7` | | |
-| [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.8` | | |
-| [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.8` | | |
-| [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.8` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
+| [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.9` | | |
+| [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.9` | | |
+| [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.9` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
 | [:link:](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
 | [:link:](https://www.ea.com) | Electronic Arts | `1.9` | | |
 | [:link:](https://www.battlefield.com) | Electronic Arts - BattleField (website) | `1.9` | | |
