@@ -91,6 +91,7 @@ Sorted alphabetically
 | [:link:](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.9` | | |
 | [:link:](https://ux.contactlab.com) | ContactLab - UI components | `1.9` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
 | [:link:](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
+| [:link:](https://app.dloky.com) | Dloky | `2.0` | | |
 | [:link:](https://www.ea.com) | Electronic Arts | `1.9` | | |
 | [:link:](https://www.battlefield.com) | Electronic Arts - BattleField (website) | `1.9` | | |
 | [:link:](https://www.ea.com/games/starwars/battlefront/battlefront-2) | Electronic Arts - BattleFront II (website) | `1.9` | | |
