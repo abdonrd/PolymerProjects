@@ -60,6 +60,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
+| [:link:](https://pair-code.github.io/facets/) | Facets | `1.8` | | [Source](https://github.com/pair-code/facets) |
 | [:link:](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` | :heavy_check_mark: | |
 | [:link:](https://io2014codelabs.appspot.com) | Google I/O 2014 Codelabs | `0.3.1` | | [Source](https://github.com/googlesamples/io2014-codelabs) |
 | [:link:](https://events.google.com/io2015) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
