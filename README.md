@@ -67,7 +67,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [:link:](https://events.google.com/io2016) | Google I/O 2016 | `1.4` | :heavy_check_mark: |
 | [:link:](https://developers.google.com/web/showcase/2015/lightsaber) | Star Wars Lightsaber Escape | `1.2` | | |
 | [:link:](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.9` | | [Source](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard) |
-| [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.2` | | |
+| [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.9` | | |
 
 ## Other
 
@@ -79,11 +79,11 @@ Sorted alphabetically
 | [:link:](https://askapp-ddc29.firebaseapp.com) | AskApp | `1.7` | | [Source](https://bitbucket.org/jordanhope/askapp) |
 | [:link:](https://www.bithound.io) | bitHound | `1.2` | | |
 | [:link:](https://www.bbvaapimarket.com) | BBVA API Market | `1.7` | | |
-| [:link:](https://bluemesh.com) | BlueMesh | `1.6` | | |
+| [:link:](https://bluemesh.com) | BlueMesh | `1.9` | | |
 | [:link:](https://braid.io) | Braid | `1.2` | | |
 | [:link:](https://www.catminingexperience.com) | Caterpillar - MINExpo 2016 | `1.6` | | |
 | [:link:](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
-| [:link:](https://www.cloudstitch.com) | Cloudstitch | `1.8` | | |
+| [:link:](https://www.cloudstitch.com) | Cloudstitch | `2.0` | | |
 | - | Collaboration Tree (Demo) | `1.7` | :heavy_check_mark: | [Source](https://github.com/F4IF/ctree-demo)  |
 | [:link:](https://home.xfinity.com) | Comcast - XFINITY Home | `1.7` | | |
 | [:link:](https://tv.xfinity.com) | Comcast - XFINITY TV | `1.7` | | |
@@ -107,7 +107,7 @@ Sorted alphabetically
 | [:link:](https://www.ea.com/games/starwars/galaxy-of-heroes) | Electronic Arts - Star Wars Galaxy of Heroes (website) | `1.9` | | |
 | [:link:](https://www.ea.com/games/titanfall/titanfall-2) | Electronic Arts - TitanFall II (website) | `1.9` | | |
 | [:link:](https://frontend.directory) | Frontend Directory | `1.6` | | |
-| [:link:](https://festilo.com) | Festilo - A mobile local shopping app | `1.7` | | |
+| [:link:](https://festilo.com) | Festilo - A mobile local shopping app | `1.9` | | |
 | [:link:](https://gitcheese.com) | Gitcheese | `1.9` | | [Source](https://github.com/gitcheese/gitcheese.ui) |
 | [:link:](http://commongarden.org) | Grow-IoT - An interoperable, FOSS framework for the Web of Things. | `1.7` | | [Source](https://github.com/CommonGarden/Grow-IoT/) |
 | [:link:](https://home-assistant.io/demo) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
@@ -132,8 +132,8 @@ Sorted alphabetically
 | [:link:](https://travelto.live) | Travel to Live | `1.9` | | |
 | [:link:](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/ubuntudesign/tutorials.ubuntu.com) |
 | [:link:](https://www.usatoday.com) | USA Today | `1.8` | | |
-| [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.8` | | [Source](https://github.com/vaadin) |
-| [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.8` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo) |
+| [:link:](https://vaadin.com/elements) | Vaadin Elements | `1.9` | | [Source](https://github.com/vaadin) |
+| [:link:](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.9` | :heavy_check_mark: | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
-| [:link:](https://zeplin.io) | Zeplin | `1.0` | | |
+| [:link:](https://zeplin.io) | Zeplin | `1.9` | | |
 | [:link:](https://zeppidy.com) | Zeppidy | `1.8` | | |
