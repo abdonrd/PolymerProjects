@@ -18,10 +18,11 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | :-: | :--- | --------------: | :-: | -----: |
 | [:link:](https://www.polymer-project.org) | Polymer | `1.9` | :heavy_check_mark: | [Source](https://github.com/Polymer/docs) |
 | [:link:](https://elements.polymer-project.org) | ~~Polymer Element Catalog~~ (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
-| [:link:](https://news.polymer-project.org) | Polymer News (demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/news) |
-| [:link:](https://shop.polymer-project.org) | Polymer Shop (demo) | `1.9` |  :heavy_check_mark: | [Source](https://github.com/Polymer/shop) |
+| [:link:](https://news.polymer-project.org) | Polymer News (demo) | `1.9` | :heavy_check_mark: | [Source](https://github.com/Polymer/news) |
+| [:link:](https://shop.polymer-project.org) | Polymer Shop (demo) | `1.9` | :heavy_check_mark: | [Source](https://github.com/Polymer/shop) |
 | [:link:](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
-| [:link:](https://www.polymer-project.org/summit) | Polymer Summit 2016 | `1.1` | | |
+| [:link:](https://www.polymer-project.org/summit-2016) | Polymer Summit 2016 | `1.1` | | |
+| [:link:](https://summit.polymer-project.org/summit) | Polymer Summit 2017 | `2.0` | :heavy_check_mark: | |
 | [:link:](https://webcomponents.org) | WebComponents.org | `1.9` | :heavy_check_mark: | [Source](https://github.com/webcomponents/webcomponents.org) |
 
 ### Google products
