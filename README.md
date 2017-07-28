@@ -100,7 +100,7 @@ Sorted alphabetically
 | [:link:](https://www.easports.com/fifa) | Electronic Arts - FIFA 18 (website) | `1.9` | | |
 | [:link:](https://www.easports.com/fifa/fifa-mobile) | Electronic Arts - FIFA Mobile (website) | `1.9` | | |
 | [:link:](https://www.easports.com/madden-nfl) | Electronic Arts - MADDEN 18 (website) | `1.9` | | |
-| [:link:](https://www.masseffect.com) | Electronic Arts - Mass Effect (website) | `1.9` | | |
+| [:link:](https://www.masseffect.com) | Electronic Arts - Mass Effect (website) | `1.8` | | |
 | [:link:](https://www.easports.com/nba-live) | Electronic Arts - NBA Live 18 (website) | `1.9` | | |
 | [:link:](https://www.easports.com/nhl) | Electronic Arts - NHL 18 (website) | `1.9` | | |
 | [:link:](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2) | Electronic Arts - Plants vs Zombies 2 (website) | `1.9` | | |
