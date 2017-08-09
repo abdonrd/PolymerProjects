@@ -141,3 +141,4 @@ Sorted alphabetically
 | [:link:](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
 | [:link:](https://zeplin.io) | Zeplin | `1.9` | | |
 | [:link:](https://zeppidy.com) | Zeppidy | `1.8` | | |
+| [:link:](https://www.41max.com) | 41max.com Personal Knowledge Mgmt | `2.0` | :heavy_check_mark: | |
