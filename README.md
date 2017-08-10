@@ -68,7 +68,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [:link:](https://io2015codelabs.appspot.com) | Google I/O 2015 Codelabs | `0.5.5` | | [Source](https://github.com/googlesamples/io2015-codelabs) |
 | [:link:](https://events.google.com/io2016/) | Google I/O 2016 | `1.4` | :heavy_check_mark: |
 | [:link:](https://developers.google.com/web/showcase/2015/lightsaber) | Star Wars Lightsaber Escape | `1.2` | | |
-| [:link:](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.9` | | [Source](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard) |
+| [:link:](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.9` | | [Source](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/projector) |
 | [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.9` | | |
 
 ## Other
