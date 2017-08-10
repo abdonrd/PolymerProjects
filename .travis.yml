@@ -2,4 +2,4 @@ install:
   - gem install awesome_bot
 
 script:
-  - awesome_bot *.md --skip-save-results --allow-redirect --allow-timeout --set-timeout 10
+  - awesome_bot README.md --allow-redirect --allow-timeout --set-timeout 10 --skip-save-results
