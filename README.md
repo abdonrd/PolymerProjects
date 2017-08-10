@@ -23,7 +23,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [🔗](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
 | [🔗](https://www.polymer-project.org/summit-2016) | Polymer Summit 2016 | `1.1` | | |
 | [🔗](https://summit.polymer-project.org) | Polymer Summit 2017 | `2.0` | ✔️ | |
-| [🔗](https://webcomponents.org) | WebComponents.org | `1.9` | ✔️ | [Source](https://github.com/webcomponents/webcomponents.org) |
+| [🔗](https://www.webcomponents.org/) | WebComponents.org | `1.9` | ✔️ | [Source](https://github.com/webcomponents/webcomponents.org) |
 
 ### Google products
 
@@ -85,12 +85,12 @@ Sorted alphabetically
 | [🔗](https://braid.io) | Braid | `1.2` | | |
 | [🔗](https://www.catminingexperience.com) | Caterpillar - MINExpo 2016 | `1.6` | | |
 | [🔗](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
-| [🔗](https://www.cloudstitch.com) | Cloudstitch | `2.0` | | |
+| [🔗](https://cloudstitch.com) | Cloudstitch | `2.0` | | |
 | - | Collaboration Tree (Demo) | `1.7` | ✔️ | [Source](https://github.com/F4IF/ctree-demo)  |
 | [🔗](https://home.xfinity.com) | Comcast - XFINITY Home | `1.7` | | |
 | [🔗](https://tv.xfinity.com) | Comcast - XFINITY TV | `1.7` | | |
-| [🔗](http://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.9` | | |
-| [🔗](http://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.9` | | |
+| [🔗](https://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.9` | | |
+| [🔗](https://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.9` | | |
 | [🔗](https://ux.contactlab.com) | ContactLab - UI components | `1.9` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
 | [🔗](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
 | [🔗](https://app.dloky.com) | Dloky | `2.0` | | |
@@ -112,9 +112,9 @@ Sorted alphabetically
 | [🔗](https://festilo.com) | Festilo - A mobile local shopping app | `1.9` | | |
 | [🔗](https://gitcheese.com) | Gitcheese | `1.9` | | [Source](https://github.com/gitcheese/gitcheese.ui) |
 | [🔗](http://commongarden.org) | Grow-IoT - An interoperable, FOSS framework for the Web of Things. | `1.7` | | [Source](https://github.com/CommonGarden/Grow-IoT/) |
-| [🔗](https://home-assistant.io/demo) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
+| [🔗](https://home-assistant.io/demo/) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
 | [🔗](https://lookbook.hp.com/us/en/) | HP Lookbook | `1.8` | | |
-| [🔗](https://console.ng.bluemix.net) | IBM Bluemix console | `1.9` | | |
+| [🔗](https://console.bluemix.net) | IBM Bluemix console | `1.9` | | |
 | [🔗](https://apps.kano.me) | Kano | `1.8` | ✔️ | |
 | [🔗](https://kongax.konga.com) | Konga EZ | `1.7` | ✔️ | |
 | [🔗](https://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
@@ -133,9 +133,9 @@ Sorted alphabetically
 | [🔗](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | ✔️ | [Source](https://github.com/anandanand84/pwa-competition/) |
 | [🔗](https://www.ridygo.fr) | Ridygo | `1.9` | | |
 | [🔗](https://snapdrop.net) | Snapdrop | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
-| [🔗](https://ww8.herokuapp.com) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.8` | | [Source](https://github.com/vcompile/Torrent-Alert) |
+| [🔗](https://t.orrent.xyz) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.9` | | [Source](https://github.com/vcompile/Torrent-Alert) |
 | [🔗](https://travelto.live) | Travel to Live | `1.9` | | |
-| [🔗](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/ubuntudesign/tutorials.ubuntu.com) |
+| [🔗](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/canonical-websites/tutorials.ubuntu.com) |
 | [🔗](https://www.usatoday.com) | USA Today | `1.8` | | |
 | [🔗](https://vaadin.com/elements) | Vaadin Elements | `1.9` | | [Source](https://github.com/vaadin) |
 | [🔗](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.9` | ✔️ | [Source](https://github.com/vaadin/expense-manager-demo) |
