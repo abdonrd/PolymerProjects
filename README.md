@@ -82,8 +82,8 @@ Sorted alphabetically
 | [🔗](https://www.bithound.io) | bitHound | `1.2` | | |
 | [🔗](https://www.bbvaapimarket.com) | BBVA API Market | `1.7` | | |
 | [🔗](https://bluemesh.com) | BlueMesh | `1.9` | | |
-| [🔗](https://braid.io) | Braid | `1.2` | | |
-| [🔗](https://www.catminingexperience.com) | Caterpillar - MINExpo 2016 | `1.6` | | |
+| [🔗](https://braid.io) | ~~Braid~~ (deprecated) | `1.2` | | |
+| [🔗](https://www.catminingexperience.com) | ~~Caterpillar - MINExpo 2016~~ (deprecated) | `1.6` | | |
 | [🔗](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
 | [🔗](https://cloudstitch.com) | Cloudstitch | `2.0` | | |
 | - | Collaboration Tree (Demo) | `1.7` | ✔️ | [Source](https://github.com/F4IF/ctree-demo)  |
@@ -113,7 +113,7 @@ Sorted alphabetically
 | [🔗](https://gitcheese.com) | Gitcheese | `1.9` | | [Source](https://github.com/gitcheese/gitcheese.ui) |
 | [🔗](http://commongarden.org) | Grow-IoT - An interoperable, FOSS framework for the Web of Things. | `1.7` | | [Source](https://github.com/CommonGarden/Grow-IoT/) |
 | [🔗](https://home-assistant.io/demo/) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
-| [🔗](https://lookbook.hp.com/us/en/) | HP Lookbook | `1.8` | | |
+| [🔗](https://lookbook.hp.com/us/en/) | ~~HP Lookbook~~ (deprecated) | `1.8` | | |
 | [🔗](https://console.bluemix.net) | IBM Bluemix console | `1.9` | | |
 | [🔗](https://apps.kano.me) | Kano | `1.8` | ✔️ | |
 | [🔗](https://kongax.konga.com) | Konga EZ | `1.7` | ✔️ | |
@@ -132,7 +132,7 @@ Sorted alphabetically
 | [🔗](https://product.cafe) | Product Cafe | `2.0` | | |
 | [🔗](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | ✔️ | [Source](https://github.com/anandanand84/pwa-competition/) |
 | [🔗](https://www.ridygo.fr) | Ridygo | `1.9` | | |
-| [🔗](https://snapdrop.net) | Snapdrop | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
+| [🔗](https://snapdrop.net) | ~~Snapdrop~~ (deprecated) | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
 | [🔗](https://t.orrent.xyz) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.9` | | [Source](https://github.com/vcompile/Torrent-Alert) |
 | [🔗](https://travelto.live) | Travel to Live | `1.9` | | |
 | [🔗](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/canonical-websites/tutorials.ubuntu.com) |
