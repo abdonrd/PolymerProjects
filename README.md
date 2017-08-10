@@ -64,9 +64,9 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [:link:](https://pair-code.github.io/facets/) | Facets | `1.8` | | [Source](https://github.com/pair-code/facets) |
 | [:link:](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` | :heavy_check_mark: | |
 | [:link:](https://io2014codelabs.appspot.com) | Google I/O 2014 Codelabs | `0.3.1` | | [Source](https://github.com/googlesamples/io2014-codelabs) |
-| [:link:](https://events.google.com/io2015) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
+| [:link:](https://events.google.com/io2015/) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
 | [:link:](https://io2015codelabs.appspot.com) | Google I/O 2015 Codelabs | `0.5.5` | | [Source](https://github.com/googlesamples/io2015-codelabs) |
-| [:link:](https://events.google.com/io2016) | Google I/O 2016 | `1.4` | :heavy_check_mark: |
+| [:link:](https://events.google.com/io2016/) | Google I/O 2016 | `1.4` | :heavy_check_mark: |
 | [:link:](https://developers.google.com/web/showcase/2015/lightsaber) | Star Wars Lightsaber Escape | `1.2` | | |
 | [:link:](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.9` | | [Source](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/tensorboard) |
 | [:link:](https://test.webrtc.org) | WebRTC troubleshooting | `1.9` | | |
