@@ -29,6 +29,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
+| [🔗](https://allo.google.com/web) | Google Allo | `1.9` | | |
 | [🔗](https://earth.google.com/web/) | Google Earth | `1.9` | | |
 | [🔗](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
 | [🔗](https://patents.google.com) | Google Patents | `1.9` | | |
