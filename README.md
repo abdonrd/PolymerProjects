@@ -16,14 +16,14 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [🔗](https://www.polymer-project.org) | Polymer | `1.9` | ✔️ | [Source](https://github.com/Polymer/docs) |
+| [🔗](https://www.polymer-project.org) | Polymer | `1.9` |  | [Source](https://github.com/Polymer/docs) |
 | [🔗](https://elements.polymer-project.org) | ~~Polymer Element Catalog~~ (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
-| [🔗](https://news.polymer-project.org) | Polymer News (demo) | `1.9` | ✔️ | [Source](https://github.com/Polymer/news) |
-| [🔗](https://shop.polymer-project.org) | Polymer Shop (demo) | `1.9` | ✔️ | [Source](https://github.com/Polymer/shop) |
+| [🔗](https://news.polymer-project.org) | Polymer News (demo) | `1.9` |  | [Source](https://github.com/Polymer/news) |
+| [🔗](https://shop.polymer-project.org) | Polymer Shop (demo) | `1.9` |  | [Source](https://github.com/Polymer/shop) |
 | [🔗](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
 | [🔗](https://www.polymer-project.org/summit-2016) | Polymer Summit 2016 | `1.1` | | |
-| [🔗](https://summit.polymer-project.org) | Polymer Summit 2017 | `2.0` | ✔️ | |
-| [🔗](https://www.webcomponents.org/) | WebComponents.org | `1.9` | ✔️ | [Source](https://github.com/webcomponents/webcomponents.org) |
+| [🔗](https://summit.polymer-project.org) | Polymer Summit 2017 | `2.0` |  | |
+| [🔗](https://www.webcomponents.org/) | WebComponents.org | `1.9` |  | [Source](https://github.com/webcomponents/webcomponents.org) |
 
 ### Google products
 
@@ -63,11 +63,11 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
 | [🔗](https://pair-code.github.io/facets/) | Facets | `1.8` | | [Source](https://github.com/pair-code/facets) |
-| [🔗](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` | ✔️ | |
+| [🔗](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` |  | |
 | [🔗](https://io2014codelabs.appspot.com) | Google I/O 2014 Codelabs | `0.3.1` | | [Source](https://github.com/googlesamples/io2014-codelabs) |
 | [🔗](https://events.google.com/io2015/) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
 | [🔗](https://io2015codelabs.appspot.com) | Google I/O 2015 Codelabs | `0.5.5` | | [Source](https://github.com/googlesamples/io2015-codelabs) |
-| [🔗](https://events.google.com/io2016/) | Google I/O 2016 | `1.4` | ✔️ |
+| [🔗](https://events.google.com/io2016/) | Google I/O 2016 | `1.4` |  |
 | [🔗](https://developers.google.com/web/showcase/2015/lightsaber) | Star Wars Lightsaber Escape | `1.2` | | |
 | [🔗](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.9` | | [Source](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/projector) |
 | [🔗](https://test.webrtc.org) | WebRTC troubleshooting | `1.9` | | |
@@ -87,7 +87,7 @@ Sorted alphabetically
 | [🔗](https://www.catminingexperience.com) | ~~Caterpillar - MINExpo 2016~~ (deprecated) | `1.6` | | |
 | [🔗](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
 | [🔗](https://cloudstitch.com) | Cloudstitch | `2.0` | | |
-| - | Collaboration Tree (Demo) | `1.7` | ✔️ | [Source](https://github.com/F4IF/ctree-demo)  |
+| - | Collaboration Tree (Demo) | `1.7` |  | [Source](https://github.com/F4IF/ctree-demo)  |
 | [🔗](https://home.xfinity.com) | Comcast - XFINITY Home | `1.7` | | |
 | [🔗](https://tv.xfinity.com) | Comcast - XFINITY TV | `1.7` | | |
 | [🔗](https://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.9` | | |
@@ -116,22 +116,23 @@ Sorted alphabetically
 | [🔗](https://home-assistant.io/demo/) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
 | [🔗](https://lookbook.hp.com/us/en/) | ~~HP Lookbook~~ (deprecated) | `1.8` | | |
 | [🔗](https://console.bluemix.net) | IBM Bluemix console | `1.9` | | |
-| [🔗](https://apps.kano.me) | Kano | `1.8` | ✔️ | |
-| [🔗](https://kongax.konga.com) | Konga EZ | `1.7` | ✔️ | |
+| [🔗](https://apps.kano.me) | Kano | `1.8` |  | |
+| [🔗](https://kongax.konga.com) | Konga EZ | `1.7` |  | |
 | [🔗](https://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
 | [🔗](https://www.letsride.com.au) | Let's Ride | `1.0` | | |
 | [🔗](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
 | [🔗](https://www.mashme.io) | Mashme.io | `1.5` | | |
-| [🔗](https://meatscope.camera) | Meatscope | `1.5` | ✔️ | [Source](https://github.com/cdata/meat-scope) |
+| [🔗](https://meatscope.camera) | Meatscope | `1.5` |  | [Source](https://github.com/cdata/meat-scope) |
 | [🔗](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
-| [🔗](https://www.olacabs.com) | Ola Cabs | `1.7` | ✔️ | |
-| [🔗](https://albion.oaktavern.cc) | Oak Tavern | `2.0` | ✔️ | |
+| [🔗](https://www.olacabs.com) | Ola Cabs | `1.7` |  | |
+| [🔗](https://albion.oaktavern.cc) | Oak Tavern | `2.0` |  | |
 | [🔗](https://bi.owox.com) | OWOX BI | `1.9` | | |
 | [🔗](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
 | [🔗](https://pancake-cms.github.io) | Pancake CMS | `1.8` | | [Source](https://github.com/Pancake-CMS/Pancake-CMS.github.io) |
-| [🔗](https://polymer-admin.firebaseapp.com/) | Polymer Admin Dashboard | `1.1` | ✔️ | [Source](https://github.com/akveo/polymer-admin) |
+| [🔗](https://polymer-admin.firebaseapp.com/) | Polymer Admin Dashboard | `1.1` |  | [Source](https://github.com/akveo/polymer-admin) |
+| [🔗](https://www.predix-ui.com/) | Predix UI | `1.7` |  | [Source](https://github.com/predixdev/predix-webapp-starter) |
 | [🔗](https://product.cafe) | Product Cafe | `2.0` | | |
-| [🔗](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | ✔️ | [Source](https://github.com/anandanand84/pwa-competition/) |
+| [🔗](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` |  | [Source](https://github.com/anandanand84/pwa-competition/) |
 | [🔗](https://www.ridygo.fr) | Ridygo | `1.9` | | |
 | [🔗](https://snapdrop.net) | ~~Snapdrop~~ (deprecated) | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
 | [🔗](https://t.orrent.xyz) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.9` | | [Source](https://github.com/vcompile/Torrent-Alert) |
@@ -139,8 +140,8 @@ Sorted alphabetically
 | [🔗](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/canonical-websites/tutorials.ubuntu.com) |
 | [🔗](https://www.usatoday.com) | USA Today | `1.8` | | |
 | [🔗](https://vaadin.com/elements) | Vaadin Elements | `1.9` | | [Source](https://github.com/vaadin) |
-| [🔗](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.9` | ✔️ | [Source](https://github.com/vaadin/expense-manager-demo) |
+| [🔗](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.9` |  | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [🔗](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
 | [🔗](https://zeplin.io) | Zeplin | `1.9` | | |
 | [🔗](https://zeppidy.com) | Zeppidy | `1.8` | | |
-| [🔗](https://www.41max.com) | 41max.com Personal Knowledge Mgmt | `2.0` | ✔️ | |
+| [🔗](https://www.41max.com) | 41max.com Personal Knowledge Mgmt | `2.0` |  | |
