@@ -123,6 +123,7 @@ Sorted alphabetically
 | [🔗](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
 | [🔗](https://www.mashme.io) | Mashme.io | `1.5` | | |
 | [🔗](https://meatscope.camera) | Meatscope | `1.5` | ✔️ | [Source](https://github.com/cdata/meat-scope) |
+| [🔗](https://demo.metags.it) | Meta Gestione Scuola (demo) | `1.9` | | |
 | [🔗](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
 | [🔗](https://www.olacabs.com) | Ola Cabs | `1.7` | ✔️ | |
 | [🔗](https://albion.oaktavern.cc) | Oak Tavern | `2.0` | ✔️ | |
