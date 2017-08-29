@@ -131,6 +131,7 @@ Sorted alphabetically
 | [🔗](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
 | [🔗](https://pancake-cms.github.io) | Pancake CMS | `1.8` | | [Source](https://github.com/Pancake-CMS/Pancake-CMS.github.io) |
 | [🔗](https://polymer-admin.firebaseapp.com/) | Polymer Admin Dashboard | `1.1` | ✔️ | [Source](https://github.com/akveo/polymer-admin) |
+| [🔗](https://www.predix-ui.com) | Predix UI | `1.7` | | [Source](https://github.com/predixdev/predix-webapp-starter) |
 | [🔗](https://product.cafe) | Product Cafe | `2.0` | | |
 | [🔗](https://www.pwnwin.com) | pwnwin | `1.6` | | |
 | [🔗](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | ✔️ | [Source](https://github.com/anandanand84/pwa-competition/) |
