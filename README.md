@@ -70,6 +70,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [🔗](https://events.google.com/io2016/) | Google I/O 2016 | `1.4` | ✔️ |
 | [🔗](https://developers.google.com/web/showcase/2015/lightsaber) | Star Wars Lightsaber Escape | `1.2` | | |
 | [🔗](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.9` | | [Source](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/projector) |
+| [🔗](https://www.virustotal.com) | VirusTotal | `1.9` | | |
 | [🔗](https://test.webrtc.org) | WebRTC troubleshooting | `1.9` | | |
 
 ## Other
