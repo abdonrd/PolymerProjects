@@ -122,7 +122,7 @@ Sorted alphabetically
 | [🔗](https://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
 | [🔗](https://www.letsride.com.au) | Let's Ride | `1.0` | | |
 | [🔗](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
-| [🔗](https://www.mashme.io) | Mashme.io | `1.5` | | |
+| [🔗](https://www.mashme.io) | Mashme.io | `1.9` | | |
 | [🔗](https://meatscope.camera) | Meatscope | `1.5` | ✔️ | [Source](https://github.com/cdata/meat-scope) |
 | [🔗](https://demo.metags.it) | Meta Gestione Scuola (demo) | `1.9` | | |
 | [🔗](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
