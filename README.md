@@ -137,6 +137,7 @@ Sorted alphabetically
 | [🔗](https://www.pwnwin.com) | pwnwin | `1.6` | | |
 | [🔗](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | ✔️ | [Source](https://github.com/anandanand84/pwa-competition/) |
 | [🔗](https://www.ridygo.fr) | Ridygo | `1.9` | | |
+| - | Saïd Business School - University of Oxford | `1.9` | | |
 | [🔗](https://snapdrop.net) | ~~Snapdrop~~ (deprecated) | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
 | [🔗](https://t.orrent.xyz) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.9` | | [Source](https://github.com/vcompile/Torrent-Alert) |
 | [🔗](https://travelto.live) | Travel to Live | `1.9` | | |
