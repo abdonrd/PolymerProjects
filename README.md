@@ -48,15 +48,15 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| - | Chrome Downloads | `1.8` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
+| - | Chrome Downloads | `1.9` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
 | [🔗](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
-| - | Chrome History | `1.8` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
+| - | Chrome History | `1.9` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
 | - | Chrome OS audio player | `x.x` | | |
 | - | Chrome OS keyboard | `x.x` | | |
-| - | Chrome PDF viewer | `1.8` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
-| [🔗](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.8` | | |
+| - | Chrome PDF viewer | `1.9` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
+| [🔗](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.9` | | |
 | [🔗](https://www.chromestatus.com) | Chrome Platform Status | `1.9` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
-| - | Chrome Settings | `1.8` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/settings/)|
+| - | Chrome Settings | `1.9` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/settings/)|
 
 ### Others
 
@@ -79,14 +79,14 @@ Sorted alphabetically
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [🔗](https://areafiftylan.nl) | AreaFiftyLAN | `1.8` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend) |
+| [🔗](https://areafiftylan.nl) | AreaFiftyLAN | `2.1` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend) |
 | [🔗](https://askapp-ddc29.firebaseapp.com) | AskApp | `1.7` | | [Source](https://bitbucket.org/jordanhope/askapp) |
 | [🔗](https://www.bithound.io) | bitHound | `1.2` | | |
 | [🔗](https://www.bbvaapimarket.com) | BBVA API Market | `1.7` | | |
 | [🔗](https://bluemesh.com) | BlueMesh | `1.9` | | |
 | [🔗](https://braid.io) | ~~Braid~~ (deprecated) | `1.2` | | |
 | [🔗](https://www.catminingexperience.com) | ~~Caterpillar - MINExpo 2016~~ (deprecated) | `1.6` | | |
-| [🔗](https://www.cerberusapp.com) | Cerberus | `1.8` | | |
+| [🔗](https://www.cerberusapp.com) | Cerberus | `1.9` | | |
 | [🔗](https://cloudstitch.com) | Cloudstitch | `2.0` | | |
 | - | Collaboration Tree (Demo) | `1.7` | ✔️ | [Source](https://github.com/F4IF/ctree-demo)  |
 | [🔗](https://home.xfinity.com) | Comcast - XFINITY Home | `1.7` | | |
@@ -102,7 +102,7 @@ Sorted alphabetically
 | [🔗](https://www.easports.com/fifa) | Electronic Arts - FIFA 18 (website) | `1.9` | | |
 | [🔗](https://www.easports.com/fifa/fifa-mobile) | Electronic Arts - FIFA Mobile (website) | `1.9` | | |
 | [🔗](https://www.easports.com/madden-nfl) | Electronic Arts - MADDEN 18 (website) | `1.9` | | |
-| [🔗](https://www.masseffect.com) | Electronic Arts - Mass Effect (website) | `1.8` | | |
+| [🔗](https://www.masseffect.com) | Electronic Arts - Mass Effect (website) | `1.9` | | |
 | [🔗](https://www.easports.com/nba-live) | Electronic Arts - NBA Live 18 (website) | `1.9` | | |
 | [🔗](https://www.easports.com/nhl) | Electronic Arts - NHL 18 (website) | `1.9` | | |
 | [🔗](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2) | Electronic Arts - Plants vs Zombies 2 (website) | `1.9` | | |
