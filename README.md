@@ -16,10 +16,10 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [🔗](https://www.polymer-project.org) | Polymer | `1.9` | ✔️ | [Source](https://github.com/Polymer/docs) |
+| [🔗](https://www.polymer-project.org) | Polymer | `2.1` | ✔️ | [Source](https://github.com/Polymer/docs) |
 | [🔗](https://elements.polymer-project.org) | ~~Polymer Element Catalog~~ (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [🔗](https://news.polymer-project.org) | Polymer News (demo) | `1.9` | ✔️ | [Source](https://github.com/Polymer/news) |
-| [🔗](https://shop.polymer-project.org) | Polymer Shop (demo) | `1.9` | ✔️ | [Source](https://github.com/Polymer/shop) |
+| [🔗](https://shop.polymer-project.org) | Polymer Shop (demo) | `2.0` | ✔️ | [Source](https://github.com/Polymer/shop) |
 | [🔗](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
 | [🔗](https://www.polymer-project.org/summit-2016) | Polymer Summit 2016 | `1.1` | | |
 | [🔗](https://summit.polymer-project.org) | Polymer Summit 2017 | `2.0` | ✔️ | |
