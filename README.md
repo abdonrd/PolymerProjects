@@ -23,7 +23,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [🔗](https://shop.polymer-project.org) | Polymer Shop (demo) | `2.0` | ✔️ | [Source](https://github.com/Polymer/shop) |
 | [🔗](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
 | [🔗](https://www.polymer-project.org/summit-2016) | Polymer Summit 2016 | `1.1` | | |
-| [🔗](https://summit.polymer-project.org) | Polymer Summit 2017 | `2.0` | ✔️ | |
+| [🔗](https://summit.polymer-project.org) | Polymer Summit 2017 | `2.0` | ✔️ | [Source](https://github.com/Polymer/summit-2017) |
 | [🔗](https://www.webcomponents.org/) | WebComponents.org | `1.9` | ✔️ | [Source](https://github.com/webcomponents/webcomponents.org) |
 
 ### Google products
