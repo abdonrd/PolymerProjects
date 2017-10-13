@@ -118,6 +118,7 @@ Sorted alphabetically
 | [🔗](http://commongarden.org) | Grow-IoT - An interoperable, FOSS framework for the Web of Things. | `1.7` | | [Source](https://github.com/CommonGarden/Grow-IoT/) |
 | [🔗](https://home-assistant.io/demo/) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
 | [🔗](https://lookbook.hp.com/us/en/) | ~~HP Lookbook~~ (deprecated) | `1.8` | | |
+| [🔗](https://hoverboard-master.firebaseapp.com/) | Hoverboard -GDG DevFest website template- | `1.9` | ✔️ | [Source](https://github.com/gdg-x/hoverboard) |
 | [🔗](https://console.bluemix.net) | IBM Bluemix console | `1.9` | | |
 | [🔗](https://apps.kano.me) | Kano | `1.8` | ✔️ | |
 | [🔗](https://kongax.konga.com) | Konga EZ | `1.7` | ✔️ | |
