@@ -51,6 +51,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | :-: | :--- | --------------: | :-: | -----: |
 | - | Chrome Downloads | `1.9` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
 | [🔗](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
+| [🔗](https://chromium-review.googlesource.com) | Chromium Gerrit | `1.9` | | |
 | - | Chrome History | `1.9` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
 | - | Chrome OS audio player | `x.x` | | |
 | - | Chrome OS keyboard | `x.x` | | |
