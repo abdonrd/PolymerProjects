@@ -19,6 +19,8 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [🔗](https://www.polymer-project.org) | Polymer | `2.1` | ✔️ | [Source](https://github.com/Polymer/docs) |
 | [🔗](https://elements.polymer-project.org) | ~~Polymer Element Catalog~~ (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [🔗](https://hn-polymer-2.firebaseapp.com/) | Polymer Hacker News client (demo) | `2.0` | ✔️ | [Source](https://github.com/Polymer/hn-polymer-2) |
+| [🔗](https://polymerlabs.github.io/indie-catalog/) | Polymer Indie elements catalog | `2.0` | ✔️ | [Source](https://github.com/PolymerLabs/indie-catalog) |
+| [🔗](https://ebidel.github.io/material-playground/) | Polymer material design element demos | `2.0` | | [Source](https://github.com/ebidel/material-playground) |
 | [🔗](https://news.polymer-project.org) | Polymer News (demo) | `1.9` | ✔️ | [Source](https://github.com/Polymer/news) |
 | [🔗](https://shop.polymer-project.org) | Polymer Shop (demo) | `2.0` | ✔️ | [Source](https://github.com/Polymer/shop) |
 | [🔗](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
