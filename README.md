@@ -30,20 +30,20 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [🔗](https://allo.google.com/web) | Google Allo | `1.9` | | |
-| [🔗](https://earth.google.com/web/) | Google Earth | `1.9` | | |
+| [🔗](https://allo.google.com/web) | Google Allo | `1.11` | | |
+| [🔗](https://earth.google.com/web/) | Google Earth | `1.10` | | |
 | [🔗](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
-| [🔗](https://patents.google.com) | Google Patents | `1.9` | | |
-| [🔗](https://play.google.com/music) | Google Play Music | `1.9` | | |
+| [🔗](https://patents.google.com) | Google Patents | `1.11` | | |
+| [🔗](https://play.google.com/music) | Google Play Music | `1.10` | | |
 | [🔗](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web) |
 | [🔗](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2` | | [Source](https://github.com/google/santa-tracker-web) |
 | [🔗](https://santatracker.google.com) | Google Santa Tracker 2016 | `1.7` | | [Source](https://github.com/google/santa-tracker-web) |
 | [🔗](https://sites.google.com/new) | Google Sites | `1.9` | | |
-| [🔗](https://translate.google.com/community) | Google Translate Community | `1.9` | | |
+| [🔗](https://translate.google.com/community) | Google Translate Community | `1.11` | | |
 | [🔗](https://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
 | [🔗](https://fi.google.com) | Project Fi | `1.9` | | |
-| [🔗](https://gaming.youtube.com) | YouTube Gaming | `1.9` | | |
-| [🔗](https://www.youtube.com) | YouTube | `1.9` | | |
+| [🔗](https://gaming.youtube.com) | YouTube Gaming | `1.10` | | |
+| [🔗](https://www.youtube.com) | YouTube | `1.11` | | |
 
 ### Google Chrome
 
@@ -131,11 +131,11 @@ Sorted alphabetically
 | [🔗](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
 | [🔗](https://www.olacabs.com) | Ola Cabs | `1.7` | ✔️ | |
 | [🔗](https://albion.oaktavern.cc) | Oak Tavern | `2.0` | ✔️ | |
-| [🔗](https://bi.owox.com) | OWOX BI | `1.9` | | |
+| [🔗](https://bi.owox.com) | OWOX BI | `1.10` | | |
 | [🔗](https://padlock.io) | Padlock | `1.2` | | [Source](https://github.com/maklesoft/padlock) |
 | [🔗](https://pancake-cms.github.io) | Pancake CMS | `1.8` | | [Source](https://github.com/Pancake-CMS/Pancake-CMS.github.io) |
 | [🔗](https://polymer-admin.firebaseapp.com/) | Polymer Admin Dashboard | `1.1` | ✔️ | [Source](https://github.com/akveo/polymer-admin) |
-| [🔗](https://www.predix-ui.com) | Predix UI | `1.7` | | [Source](https://github.com/predixdev/predix-webapp-starter) |
+| [🔗](https://www.predix-ui.com) | Predix UI | `1.11` | | [Source](https://github.com/predixdev/predix-webapp-starter) |
 | [🔗](https://product.cafe) | Product Cafe | `2.0` | | |
 | [🔗](https://www.pwnwin.com) | pwnwin | `1.6` | | |
 | [🔗](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | ✔️ | [Source](https://github.com/anandanand84/pwa-competition/) |
@@ -146,8 +146,8 @@ Sorted alphabetically
 | [🔗](https://travelto.live) | Travel to Live | `1.9` | | |
 | [🔗](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/canonical-websites/tutorials.ubuntu.com) |
 | [🔗](https://www.usatoday.com) | USA Today | `1.8` | | |
-| [🔗](https://vaadin.com/elements) | Vaadin Elements | `1.9` | | [Source](https://github.com/vaadin) |
-| [🔗](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `1.9` | ✔️ | [Source](https://github.com/vaadin/expense-manager-demo) |
+| [🔗](https://vaadin.com/elements) | Vaadin Elements | `2.1` | | [Source](https://github.com/vaadin) |
+| [🔗](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `2.1` | ✔️ | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [🔗](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
 | [🔗](https://zeplin.io) | Zeplin | `1.9` | | |
 | [🔗](https://zeppidy.com) | Zeppidy | `1.8` | | |
