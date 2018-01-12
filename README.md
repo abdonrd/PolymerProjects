@@ -10,6 +10,12 @@ Please send a [Pull Request](https://github.com/abdonrd/PolymerProjects/compare)
 
 To find the Polymer version, run `Polymer.version` in the Developer Tools Console.
 
+### Template
+
+```
+| [![${TITLE}](https://www.google.com/s2/favicons?domain=${URL})](${URL}) | ${TITLE} | `version` | ✅ | [Source](${SOURCE_URL}) |
+```
+
 ## Google
 
 ### Polymer Project
