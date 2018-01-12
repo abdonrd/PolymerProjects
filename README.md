@@ -124,7 +124,7 @@ Sorted alphabetically
 | [🔗](https://hoverboard-master.firebaseapp.com/) | Hoverboard -GDG DevFest website template- | `1.9` | ✔️ | [Source](https://github.com/gdg-x/hoverboard) |
 | [🔗](https://console.bluemix.net) | IBM Bluemix console | `1.9` | | |
 | [🔗](https://apps.kano.me) | Kano | `1.8` | ✔️ | |
-| [🔗](https://kongax.konga.com) | Konga EZ | `1.7` | ✔️ | |
+| [🔗](https://konga.com) | Konga EZ | `1.7` | ✔️ | |
 | [🔗](https://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
 | [🔗](https://www.letsride.com.au) | Let's Ride | `1.0` | | |
 | [🔗](https://www.marktplaats.nl) | Marktplaats | `1.8` | | |
@@ -145,7 +145,7 @@ Sorted alphabetically
 | [🔗](https://www.ridygo.fr) | Ridygo | `1.9` | | |
 | - | Saïd Business School - University of Oxford | `1.9` | | |
 | [🔗](https://snapdrop.net) | ~~Snapdrop~~ (deprecated) | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
-| [🔗](https://t.orrent.xyz) | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.9` | | [Source](https://github.com/vcompile/Torrent-Alert) |
+| - | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.9` | | [Source](https://github.com/vcompile/Torrent-Alert) |
 | [🔗](https://travelto.live) | Travel to Live | `1.9` | | |
 | [🔗](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/canonical-websites/tutorials.ubuntu.com) |
 | [🔗](https://www.usatoday.com) | USA Today | `1.8` | | |
