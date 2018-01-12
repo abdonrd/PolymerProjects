@@ -27,30 +27,31 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [![Polymer Hacker News client (demo)](https://www.google.com/s2/favicons?domain=https://hn-polymer-2.firebaseapp.com/)](https://hn-polymer-2.firebaseapp.com/) | Polymer Hacker News client (demo) | `2.0` | ✅ | [Source](https://github.com/Polymer/hn-polymer-2) |
 | [![Polymer Indie elements catalog](https://www.google.com/s2/favicons?domain=https://polymerlabs.github.io/indie-catalog/)](https://polymerlabs.github.io/indie-catalog/) | Polymer Indie elements catalog | `2.0` | ✅ | [Source](https://github.com/PolymerLabs/indie-catalog) |
 | [![Polymer material design element demos](https://www.google.com/s2/favicons?domain=https://ebidel.github.io/material-playground/)](https://ebidel.github.io/material-playground/) | Polymer material design element demos | `2.0` | | [Source](https://github.com/ebidel/material-playground) |
-| [![Polymer News (demo)](https://www.google.com/s2/favicons?domain=https://news.polymer-project.org)](https://news.polymer-project.org) | Polymer News (demo) | `1.9` | ✅ | [Source](https://github.com/Polymer/news) |
-| [![Polymer Shop (demo)](https://www.google.com/s2/favicons?domain=https://shop.polymer-project.org)](https://shop.polymer-project.org) | Polymer Shop (demo) | `2.0` | ✅ | [Source](https://github.com/Polymer/shop) |
+| [![Polymer News (demo)](https://www.google.com/s2/favicons?domain=https://news.polymer-project.org)](https://news.polymer-project.org) | Polymer News (demo) | `2.1` | ✅ | [Source](https://github.com/Polymer/news) |
+| [![Polymer Shop (demo)](https://www.google.com/s2/favicons?domain=https://shop.polymer-project.org)](https://shop.polymer-project.org) | Polymer Shop (demo) | `2.1` | ✅ | [Source](https://github.com/Polymer/shop) |
 | [![Polymer Summit 2015](https://www.google.com/s2/favicons?domain=https://www.polymer-project.org/summit-2015)](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
 | [![Polymer Summit 2016](https://www.google.com/s2/favicons?domain=https://www.polymer-project.org/summit-2016)](https://www.polymer-project.org/summit-2016) | Polymer Summit 2016 | `1.1` | | |
 | [![Polymer Summit 2017](https://www.google.com/s2/favicons?domain=https://summit.polymer-project.org)](https://summit.polymer-project.org) | Polymer Summit 2017 | `2.0` | ✅ | [Source](https://github.com/Polymer/summit-2017) |
-| [![WebComponents.org](https://www.google.com/s2/favicons?domain=https://www.webcomponents.org/)](https://www.webcomponents.org/) | WebComponents.org | `1.9` | ✅ | [Source](https://github.com/webcomponents/webcomponents.org) |
+| [![WebComponents.org](https://www.google.com/s2/favicons?domain=https://www.webcomponents.org/)](https://www.webcomponents.org/) | WebComponents.org | `1.11` | ✅ | [Source](https://github.com/webcomponents/webcomponents.org) |
 
 ### Google products
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
 | [![Google Allo](https://www.google.com/s2/favicons?domain=https://allo.google.com/web)](https://allo.google.com/web) | Google Allo | `1.11` | | |
-| [![Google Earth](https://www.google.com/s2/favicons?domain=https://earth.google.com/web/)](https://earth.google.com/web/) | Google Earth | `1.10` | | |
+| [![Google Earth](https://www.google.com/s2/favicons?domain=https://earth.google.com/web/)](https://earth.google.com/web/) | Google Earth | `1.11` | | |
 | [![Google Maps APIs Styling Wizard](https://www.google.com/s2/favicons?domain=https://mapstyle.withgoogle.com)](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
 | [![Google Patents](https://www.google.com/s2/favicons?domain=https://patents.google.com)](https://patents.google.com) | Google Patents | `1.11` | | |
-| [![Google Play Music](https://www.google.com/s2/favicons?domain=https://play.google.com/music)](https://play.google.com/music) | Google Play Music | `1.10` | | |
+| [![Google Play Music](https://www.google.com/s2/favicons?domain=https://play.google.com/music)](https://play.google.com/music) | Google Play Music | `1.11` | | |
 | [![Google Santa Tracker 2014](https://www.google.com/s2/favicons?domain=https://santatracker.google.com)](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web) |
 | [![Google Santa Tracker 2015](https://www.google.com/s2/favicons?domain=https://santatracker.google.com)](https://santatracker.google.com) | Google Santa Tracker 2015 | `1.2` | | [Source](https://github.com/google/santa-tracker-web) |
 | [![Google Santa Tracker 2016](https://www.google.com/s2/favicons?domain=https://santatracker.google.com)](https://santatracker.google.com) | Google Santa Tracker 2016 | `1.7` | | [Source](https://github.com/google/santa-tracker-web) |
-| [![Google Sites](https://www.google.com/s2/favicons?domain=https://sites.google.com/new)](https://sites.google.com/new) | Google Sites | `1.9` | | |
+| [![Google Santa Tracker 2017](https://www.google.com/s2/favicons?domain=https://santatracker.google.com)](https://santatracker.google.com) | Google Santa Tracker 2016 | `2.1` | | [Source](https://github.com/google/santa-tracker-web) |
+| [![Google Sites](https://www.google.com/s2/favicons?domain=https://sites.google.com/new)](https://sites.google.com/new) | Google Sites | `1.11` | | |
 | [![Google Translate Community](https://www.google.com/s2/favicons?domain=https://translate.google.com/community)](https://translate.google.com/community) | Google Translate Community | `1.11` | | |
 | [![Google Zeitgeist](https://www.google.com/s2/favicons?domain=https://zeitgeist-globe.appspot.com)](https://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
-| [![Project Fi](https://www.google.com/s2/favicons?domain=https://fi.google.com)](https://fi.google.com) | Project Fi | `1.9` | | |
-| [![YouTube Gaming](https://www.google.com/s2/favicons?domain=https://gaming.youtube.com)](https://gaming.youtube.com) | YouTube Gaming | `1.10` | | |
+| [![Project Fi](https://www.google.com/s2/favicons?domain=https://fi.google.com)](https://fi.google.com) | Project Fi | `1.11` | | |
+| [![YouTube Gaming](https://www.google.com/s2/favicons?domain=https://gaming.youtube.com)](https://gaming.youtube.com) | YouTube Gaming | `1.11` | | |
 | [![YouTube](https://www.google.com/s2/favicons?domain=https://www.youtube.com)](https://www.youtube.com) | YouTube | `1.11` | | |
 
 ### Google Chrome
@@ -58,15 +59,21 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
 | - | Chrome Downloads | `1.9` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
-| [![Chrome Experiments](https://www.google.com/s2/favicons?domain=https://www.chromeexperiments.com)](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
-| [![Chromium Gerrit](https://www.google.com/s2/favicons?domain=https://chromium-review.googlesource.com)](https://chromium-review.googlesource.com) | Chromium Gerrit | `1.9` | | |
 | - | Chrome History | `1.9` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
+| - | Chrome PDF viewer | `1.9` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
+| - | Chrome Settings | `1.9` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/settings/)|
+
+|     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
+| :-: | :--- | --------------: | :-: | -----: |
 | - | Chrome OS audio player | `x.x` | | |
 | - | Chrome OS keyboard | `x.x` | | |
-| - | Chrome PDF viewer | `1.9` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
+
+|     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
+| :-: | :--- | --------------: | :-: | -----: |
+| [![Chrome Experiments](https://www.google.com/s2/favicons?domain=https://www.chromeexperiments.com)](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
+| [![Chromium Gerrit](https://www.google.com/s2/favicons?domain=https://chromium-review.googlesource.com)](https://chromium-review.googlesource.com) | Chromium Gerrit | `1.11` | | |
 | [![Chrome Performance Dashboard](https://www.google.com/s2/favicons?domain=https://chromeperf.appspot.com)](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.9` | | |
-| [![Chrome Platform Status](https://www.google.com/s2/favicons?domain=https://www.chromestatus.com)](https://www.chromestatus.com) | Chrome Platform Status | `1.9` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
-| - | Chrome Settings | `1.9` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/settings/)|
+| [![Chrome Platform Status](https://www.google.com/s2/favicons?domain=https://www.chromestatus.com)](https://www.chromestatus.com) | Chrome Platform Status | `1.11` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
 
 ### Others
 
@@ -81,7 +88,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [![Star Wars Lightsaber Escape](https://www.google.com/s2/favicons?domain=https://developers.google.com/web/showcase/2015/lightsaber)](https://developers.google.com/web/showcase/2015/lightsaber) | Star Wars Lightsaber Escape | `1.2` | | |
 | [![Tensorflow - Embedding Projector](https://www.google.com/s2/favicons?domain=http://projector.tensorflow.org)](http://projector.tensorflow.org) | Tensorflow - Embedding Projector | `1.9` | | [Source](https://github.com/tensorflow/tensorboard/tree/master/tensorboard/plugins/projector) |
 | [![VirusTotal](https://www.google.com/s2/favicons?domain=https://www.virustotal.com)](https://www.virustotal.com) | VirusTotal | `1.9` | | |
-| [![WebRTC troubleshooting](https://www.google.com/s2/favicons?domain=https://test.webrtc.org)](https://test.webrtc.org) | WebRTC troubleshooting | `1.9` | | |
+| [![WebRTC troubleshooting](https://www.google.com/s2/favicons?domain=https://test.webrtc.org)](https://test.webrtc.org) | WebRTC troubleshooting | `1.11` | | |
 
 ## Other
 
