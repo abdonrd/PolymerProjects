@@ -1,0 +1,10 @@
+install:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md
+      --allow-redirect
+      --allow-timeout
+      --set-timeout 10
+      --skip-save-results
+      --white-list braid.io,customelements.io,meatscope.camera,snapdrop.net,developers.google.com/web/progressive-web-apps/,santatracker.google.com,github.com/google/santa-tracker-web,victoriassecret.com
