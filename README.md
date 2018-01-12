@@ -85,6 +85,7 @@ Sorted alphabetically
 | :-: | :--- | --------------: | :-: | -----: |
 | [🔗](https://areafiftylan.nl) | AreaFiftyLAN | `2.1` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend) |
 | [🔗](https://askapp-ddc29.firebaseapp.com) | AskApp | `1.7` | | [Source](https://bitbucket.org/jordanhope/askapp) |
+| [🔗](https://bassface.dance) | BassFace | `2.1` | ✔️ | |
 | [🔗](https://www.bithound.io) | bitHound | `1.2` | | |
 | [🔗](https://www.bbvaapimarket.com) | BBVA API Market | `1.7` | | |
 | [🔗](https://bluemesh.com) | BlueMesh | `1.9` | | |
