@@ -136,6 +136,7 @@ Sorted alphabetically
 | [![~~HP Lookbook~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://lookbook.hp.com/us/en/)](https://lookbook.hp.com/us/en/) | ~~HP Lookbook~~ (deprecated) | `1.8` | | |
 | [![Hoverboard -GDG DevFest website template-](https://www.google.com/s2/favicons?domain=https://hoverboard-master.firebaseapp.com/)](https://hoverboard-master.firebaseapp.com/) | Hoverboard -GDG DevFest website template- | `1.10` | ✅ | [Source](https://github.com/gdg-x/hoverboard) |
 | [![IBM Bluemix console](https://www.google.com/s2/favicons?domain=https://console.bluemix.net)](https://console.bluemix.net) | IBM Bluemix console | `1.9` | | |
+| [![Indystar](https://www.google.com/s2/favicons?domain=https://www.indystar.com)](https://www.indystar.com) | IndyStar | `2.2` | | |
 | [![Kano](https://www.google.com/s2/favicons?domain=https://apps.kano.me)](https://apps.kano.me) | Kano | `1.10` | ✅ | |
 | [![Konga EZ](https://www.google.com/s2/favicons?domain=https://konga.com)](https://konga.com) | Konga EZ | `1.7` | ✅ | |
 | [![Kune](https://www.google.com/s2/favicons?domain=https://kune.cc)](https://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
