@@ -159,7 +159,7 @@ Sorted alphabetically
 | [![Ridygo](https://www.google.com/s2/favicons?domain=https://www.ridygo.fr)](https://www.ridygo.fr) | Ridygo | `1.9` | | |
 | - | Saïd Business School - University of Oxford | `1.9` | | |
 | [![~~Snapdrop~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://snapdrop.net)](https://snapdrop.net) | ~~Snapdrop~~ (deprecated) | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
-| [![SuttaCentral](https://www.google.com/s2/favicons?domain=https://next.suttacentral.net/)](https://next.suttacentral.net/) | SuttaCentral | `2.5` | | |
+| [![SuttaCentral](https://www.google.com/s2/favicons?domain=https://next.suttacentral.net/)](https://next.suttacentral.net/) | SuttaCentral | `2.5` | | [Source](https://github.com/suttacentral/next-sc) |
 | - | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.9` | | [Source](https://github.com/vcompile/Torrent-Alert) |
 | [![Travel to Live](https://www.google.com/s2/favicons?domain=https://travelto.live)](https://travelto.live) | Travel to Live | `1.9` | | |
 | [![Ubuntu Tutorials](https://www.google.com/s2/favicons?domain=https://tutorials.ubuntu.com)](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/canonical-websites/tutorials.ubuntu.com) |
