@@ -163,6 +163,7 @@ Sorted alphabetically
 | - | Torrent Alert - Torrent Keyword Search, Schedule & Alert | `1.9` | | [Source](https://github.com/vcompile/Torrent-Alert) |
 | [![Travel to Live](https://www.google.com/s2/favicons?domain=https://travelto.live)](https://travelto.live) | Travel to Live | `1.9` | | |
 | [![Ubuntu Tutorials](https://www.google.com/s2/favicons?domain=https://tutorials.ubuntu.com)](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/canonical-websites/tutorials.ubuntu.com) |
+| [![University of Queensland, Australia - UQ Library](https://www.google.com/s2/favicons?domain=https://www.library.uq.edu.au)](https://www.library.uq.edu.au) | University of Queensland, Australia - UQ Library | `1.9` |  |  |
 | [![USA Today](https://www.google.com/s2/favicons?domain=https://www.usatoday.com)](https://www.usatoday.com) | USA Today | `1.8` | | |
 | [![Vaadin Elements](https://www.google.com/s2/favicons?domain=https://vaadin.com/elements)](https://vaadin.com/elements) | Vaadin Elements | `2.3` | | [Source](https://github.com/vaadin) |
 | [![Vaadin Expense Manager](https://www.google.com/s2/favicons?domain=https://demo.vaadin.com/expense-manager/)](https://demo.vaadin.com/expense-manager/) | Vaadin Expense Manager | `2.1` | ✅ | [Source](https://github.com/vaadin/expense-manager-demo) |
