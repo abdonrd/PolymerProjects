@@ -113,6 +113,7 @@ Sorted alphabetically
 | [![ContactLab - ContactHub](https://www.google.com/s2/favicons?domain=https://contactlab.com/en/offer/engagement-marketing-platform/contacthub/)](https://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.9` | | |
 | [![ContactLab - ContactPlan](https://www.google.com/s2/favicons?domain=https://contactlab.com/en/offer/engagement-marketing-platform/contactplan/)](https://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.9` | | |
 | [![ContactLab - UI components](https://www.google.com/s2/favicons?domain=https://ux.contactlab.com)](https://ux.contactlab.com) | ContactLab - UI components | `1.9` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
+| [![Crypto Trading hub](https://www.google.com/s2/favicons?domain=https://cryptotrading-hub.com/)](https://cryptotrading-hub.com/) | Crypto Trading hub | `2.0` | | [Source](https://github.com/anandanand84/technicalindicators) |
 | [![~~CustomElements~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://customelements.io)](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
 | [![Dloky](https://www.google.com/s2/favicons?domain=https://app.dloky.com)](https://app.dloky.com) | Dloky | `2.0` | | |
 | [![Electronic Arts](https://www.google.com/s2/favicons?domain=https://www.ea.com)](https://www.ea.com) | Electronic Arts | `2.4` | | |
@@ -155,7 +156,7 @@ Sorted alphabetically
 | [![Predix UI](https://www.google.com/s2/favicons?domain=https://www.predix-ui.com)](https://www.predix-ui.com) | Predix UI | `1.11` | | [Source](https://github.com/predixdev/predix-webapp-starter) |
 | [![Product Cafe](https://www.google.com/s2/favicons?domain=https://product.cafe)](https://product.cafe) | Product Cafe | `2.0` | | |
 | [![pwnwin](https://www.google.com/s2/favicons?domain=https://www.pwnwin.com)](https://www.pwnwin.com) | pwnwin | `1.6` | | |
-| [![Realtime Stock Screener](https://www.google.com/s2/favicons?domain=https://realtimestockscreener.com)](https://realtimestockscreener.com) | Realtime Stock Screener | `1.5` | ✅ | [Source](https://github.com/anandanand84/pwa-competition/) |
+| [![~~Realtime Stock Screener~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://realtimestockscreener.com)](https://realtimestockscreener.com) | ~~Realtime Stock Screener~~ (deprecated) | `1.5` | ✅ | [Source](https://github.com/anandanand84/pwa-competition/) |
 | [![Ridygo](https://www.google.com/s2/favicons?domain=https://www.ridygo.fr)](https://www.ridygo.fr) | Ridygo | `1.9` | | |
 | - | Saïd Business School - University of Oxford | `1.9` | | |
 | [![~~Snapdrop~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://snapdrop.net)](https://snapdrop.net) | ~~Snapdrop~~ (deprecated) | `1.2` | | [Source](https://github.com/RobinLinus/snapdrop) |
