@@ -166,7 +166,7 @@ Sorted alphabetically
 | [![Ubuntu Tutorials](https://www.google.com/s2/favicons?domain=https://tutorials.ubuntu.com)](https://tutorials.ubuntu.com) | Ubuntu Tutorials | `1.7` | | [Source](https://github.com/canonical-websites/tutorials.ubuntu.com) |
 | [![University of Queensland, Australia - UQ Library](https://www.google.com/s2/favicons?domain=https://www.library.uq.edu.au)](https://www.library.uq.edu.au) | University of Queensland, Australia - UQ Library | `1.9` |  |  |
 | [![USA Today](https://www.google.com/s2/favicons?domain=https://www.usatoday.com)](https://www.usatoday.com) | USA Today | `1.8` | | |
-| [![Vaadin Elements](https://www.google.com/s2/favicons?domain=https://vaadin.com/elements)](https://vaadin.com/elements) | Vaadin Elements | `2.3` | | [Source](https://github.com/vaadin) |
+| [![Vaadin components](https://www.google.com/s2/favicons?domain=https://vaadin.com/components)](https://vaadin.com/components) | Vaadin components | `2.5` | | [Source](https://github.com/vaadin) |
 | [![Vaadin Expense Manager](https://www.google.com/s2/favicons?domain=https://expensemanager.demo.vaadin.com/)](https://expensemanager.demo.vaadin.com/) | Vaadin Expense Manager | `2.5` | ✅ | [Source](https://github.com/vaadin/expense-manager-demo) |
 | [![Victoria's Secret](https://www.google.com/s2/favicons?domain=https://www.victoriassecret.com)](https://www.victoriassecret.com) | Victoria's Secret | `1.5` | | |
 | [![Zeplin](https://www.google.com/s2/favicons?domain=https://zeplin.io)](https://zeplin.io) | Zeplin | `1.9` | | |
