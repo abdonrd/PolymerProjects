@@ -58,12 +58,12 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| - | Chrome Bookmarks | `1.11` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_bookmarks/)|
-| - | Chrome Downloads | `1.11` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/)|
-| - | Chrome Extensions | `1.11` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_extensions/)|
-| - | Chrome History | `1.11` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/)|
+| - | Chrome Bookmarks | `1.11` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_bookmarks/) |
+| - | Chrome Downloads | `1.11` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_downloads/) |
+| - | Chrome Extensions | `1.11` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_extensions/) |
+| - | Chrome History | `1.11` | | [Source](https://cs.chromium.org/chromium/src/chrome/browser/resources/md_history/) |
 | - | Chrome PDF viewer | `1.11` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/pdf) |
-| - | Chrome Settings | `1.11` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/settings/)|
+| - | Chrome Settings | `1.11` | | [Source](https://chromium.googlesource.com/chromium/src/+/master/chrome/browser/resources/settings/) |
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
