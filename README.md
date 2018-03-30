@@ -22,7 +22,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [![Polymer](https://www.google.com/s2/favicons?domain=https://www.polymer-project.org)](https://www.polymer-project.org) | Polymer | `2.1` | ✅ | [Source](https://github.com/Polymer/docs) |
+| [![Polymer (website)](https://www.google.com/s2/favicons?domain=https://www.polymer-project.org)](https://www.polymer-project.org) | Polymer (website) | `2.5` | ✅ | [Source](https://github.com/Polymer/docs) |
 | [![~~Polymer Element Catalog~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://elements.polymer-project.org)](https://elements.polymer-project.org) | ~~Polymer Element Catalog~~ (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [![Polymer Hacker News client (demo)](https://www.google.com/s2/favicons?domain=https://hn-polymer-2.firebaseapp.com/)](https://hn-polymer-2.firebaseapp.com/) | Polymer Hacker News client (demo) | `2.0` | ✅ | [Source](https://github.com/Polymer/hn-polymer-2) |
 | [![Polymer Indie elements catalog](https://www.google.com/s2/favicons?domain=https://polymerlabs.github.io/indie-catalog/)](https://polymerlabs.github.io/indie-catalog/) | Polymer Indie elements catalog | `2.0` | ✅ | [Source](https://github.com/PolymerLabs/indie-catalog) |
@@ -74,7 +74,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | :-: | :--- | --------------: | :-: | -----: |
 | [![Chrome Experiments](https://www.google.com/s2/favicons?domain=https://www.chromeexperiments.com)](https://www.chromeexperiments.com) | Chrome Experiments | `0.5.5` | | |
 | [![Chromium Gerrit](https://www.google.com/s2/favicons?domain=https://chromium-review.googlesource.com)](https://chromium-review.googlesource.com) | Chromium Gerrit | `1.11` | | |
-| [![Chrome Performance Dashboard](https://www.google.com/s2/favicons?domain=https://chromeperf.appspot.com)](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.9` | | |
+| [![Chrome Performance Dashboard](https://www.google.com/s2/favicons?domain=https://chromeperf.appspot.com)](https://chromeperf.appspot.com) | Chrome Performance Dashboard | `1.10` | | |
 | [![Chrome Platform Status](https://www.google.com/s2/favicons?domain=https://www.chromestatus.com)](https://www.chromestatus.com) | Chrome Platform Status | `1.11` | | [Source](https://github.com/GoogleChrome/chromium-dashboard) |
 
 ### Others
@@ -98,7 +98,7 @@ Sorted alphabetically
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [![AreaFiftyLAN](https://www.google.com/s2/favicons?domain=https://areafiftylan.nl)](https://areafiftylan.nl) | AreaFiftyLAN | `2.1` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend) |
+| [![AreaFiftyLAN](https://www.google.com/s2/favicons?domain=https://areafiftylan.nl)](https://areafiftylan.nl) | AreaFiftyLAN | `2.6` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend) |
 | [![AskApp](https://www.google.com/s2/favicons?domain=https://askapp-ddc29.firebaseapp.com)](https://askapp-ddc29.firebaseapp.com) | AskApp | `1.7` | | [Source](https://bitbucket.org/jordanhope/askapp) |
 | [![BassFace](https://www.google.com/s2/favicons?domain=https://bassface.dance)](https://bassface.dance) | BassFace | `2.1` | ✅ | |
 | [![bitHound](https://www.google.com/s2/favicons?domain=https://www.bithound.io)](https://www.bithound.io) | bitHound | `1.2` | | |
@@ -117,7 +117,7 @@ Sorted alphabetically
 | [![Crypto Trading hub](https://www.google.com/s2/favicons?domain=https://cryptotrading-hub.com/)](https://cryptotrading-hub.com/) | Crypto Trading hub | `2.0` | | [Source](https://github.com/anandanand84/technicalindicators) |
 | [![~~CustomElements~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://customelements.io)](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
 | [![Dloky](https://www.google.com/s2/favicons?domain=https://app.dloky.com)](https://app.dloky.com) | Dloky | `2.0` | | |
-| [![Electronic Arts](https://www.google.com/s2/favicons?domain=https://www.ea.com)](https://www.ea.com) | Electronic Arts | `2.4` | | |
+| [![Electronic Arts (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com)](https://www.ea.com) | Electronic Arts (website) | `2.5` | | |
 | [![Electronic Arts - BattleField (website)](https://www.google.com/s2/favicons?domain=https://www.battlefield.com)](https://www.battlefield.com) | Electronic Arts - BattleField (website) | `2.5` | | |
 | [![Electronic Arts - BattleFront II (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/starwars/battlefront/battlefront-2)](https://www.ea.com/games/starwars/battlefront/battlefront-2) | Electronic Arts - BattleFront II (website) | `1.11` | | |
 | [![Electronic Arts - FIFA 18 (website)](https://www.google.com/s2/favicons?domain=https://www.easports.com/fifa)](https://www.easports.com/fifa) | Electronic Arts - FIFA 18 (website) | `1.11` | | |
@@ -129,8 +129,8 @@ Sorted alphabetically
 | [![Electronic Arts - Plants vs Zombies 2 (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2)](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2) | Electronic Arts - Plants vs Zombies 2 (website) | `2.5` | | |
 | [![Electronic Arts - Plants vs Zombies Heroes (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-heroes)](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-heroes) | Electronic Arts - Plants vs Zombies Heroes (website) | `2.5` | | |
 | [![Electronic Arts - SimCity BuildIt (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/simcity/simcity-buildit)](https://www.ea.com/games/simcity/simcity-buildit) | Electronic Arts - SimCity BuildIt (website) | `2.5` | | |
-| [![Electronic Arts - Star Wars Galaxy of Heroes (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/starwars/galaxy-of-heroes)](https://www.ea.com/games/starwars/galaxy-of-heroes) | Electronic Arts - Star Wars Galaxy of Heroes (website) | `2.4` | | |
-| [![Electronic Arts - TitanFall II (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/titanfall/titanfall-2)](https://www.ea.com/games/titanfall/titanfall-2) | Electronic Arts - TitanFall II (website) | `2.4` | | |
+| [![Electronic Arts - Star Wars Galaxy of Heroes (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/starwars/galaxy-of-heroes)](https://www.ea.com/games/starwars/galaxy-of-heroes) | Electronic Arts - Star Wars Galaxy of Heroes (website) | `2.5` | | |
+| [![Electronic Arts - TitanFall II (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/titanfall/titanfall-2)](https://www.ea.com/games/titanfall/titanfall-2) | Electronic Arts - TitanFall II (website) | `2.5` | | |
 | [![Frontend Directory](https://www.google.com/s2/favicons?domain=https://frontend.directory)](https://frontend.directory) | Frontend Directory | `1.6` | | |
 | [![Festilo - A mobile local shopping app](https://www.google.com/s2/favicons?domain=https://festilo.com)](https://festilo.com) | Festilo - A mobile local shopping app | `1.9` | | |
 | [![Gitcheese](https://www.google.com/s2/favicons?domain=https://gitcheese.com)](https://gitcheese.com) | Gitcheese | `1.9` | | [Source](https://github.com/gitcheese/gitcheese.ui) |
@@ -144,7 +144,7 @@ Sorted alphabetically
 | [![Kune](https://www.google.com/s2/favicons?domain=https://kune.cc)](https://kune.cc) | Kune | `1.5` | | [Source](https://github.com/comunes/kune) |
 | [![Let's Ride](https://www.google.com/s2/favicons?domain=https://www.letsride.com.au)](https://www.letsride.com.au) | Let's Ride | `1.0` | | |
 | [![Marktplaats](https://www.google.com/s2/favicons?domain=https://www.marktplaats.nl)](https://www.marktplaats.nl) | Marktplaats | `1.10` | | |
-| [![Mashme.io](https://www.google.com/s2/favicons?domain=https://www.mashme.io)](https://www.mashme.io) | Mashme.io | `1.9` | | |
+| [![Mashme.io](https://www.google.com/s2/favicons?domain=https://www.mashme.io)](https://www.mashme.io) | Mashme.io | `1.11` | | |
 | [![Meatscope](https://www.google.com/s2/favicons?domain=https://meatscope.camera)](https://meatscope.camera) | Meatscope | `1.5` | ✅ | [Source](https://github.com/cdata/meat-scope) |
 | [![Meta Gestione Scuola (demo)](https://www.google.com/s2/favicons?domain=https://demo.metags.it)](https://demo.metags.it) | Meta Gestione Scuola (demo) | `1.9` | | |
 | [![Net-a-Porter](https://www.google.com/s2/favicons?domain=https://www.net-a-porter.com)](https://www.net-a-porter.com) | Net-a-Porter | `1.2` | | |
