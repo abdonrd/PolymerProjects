@@ -111,9 +111,6 @@ Sorted alphabetically
 | - | Collaboration Tree (Demo) | `2.0` | ✅ | [Source](https://github.com/F4IF/ctree-demo) |
 | [![Comcast - XFINITY Home](https://www.google.com/s2/favicons?domain=https://home.xfinity.com)](https://home.xfinity.com) | Comcast - XFINITY Home | `1.9` | | |
 | [![Comcast - XFINITY TV](https://www.google.com/s2/favicons?domain=https://tv.xfinity.com)](https://tv.xfinity.com) | Comcast - XFINITY TV | `1.9` | | |
-| [![ContactLab - ContactHub](https://www.google.com/s2/favicons?domain=https://contactlab.com/en/offer/engagement-marketing-platform/contacthub/)](https://contactlab.com/en/offer/engagement-marketing-platform/contacthub/) | ContactLab - ContactHub | `1.9` | | |
-| [![ContactLab - ContactPlan](https://www.google.com/s2/favicons?domain=https://contactlab.com/en/offer/engagement-marketing-platform/contactplan/)](https://contactlab.com/en/offer/engagement-marketing-platform/contactplan/) | ContactLab - ContactPlan | `1.9` | | |
-| [![ContactLab - UI components](https://www.google.com/s2/favicons?domain=https://ux.contactlab.com)](https://ux.contactlab.com) | ContactLab - UI components | `1.9` | | [Source](https://github.com/contactlab/contactlab-ui-components) |
 | [![Crypto Trading hub](https://www.google.com/s2/favicons?domain=https://cryptotrading-hub.com/)](https://cryptotrading-hub.com/) | Crypto Trading hub | `2.0` | | [Source](https://github.com/anandanand84/technicalindicators) |
 | [![~~CustomElements~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://customelements.io)](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
 | [![Dloky](https://www.google.com/s2/favicons?domain=https://app.dloky.com)](https://app.dloky.com) | Dloky | `2.0` | | |
