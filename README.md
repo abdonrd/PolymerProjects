@@ -52,6 +52,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | [![Google Zeitgeist](https://www.google.com/s2/favicons?domain=https://zeitgeist-globe.appspot.com)](https://zeitgeist-globe.appspot.com) | Google Zeitgeist | `0.3.3` | | |
 | [![Project Fi](https://www.google.com/s2/favicons?domain=https://fi.google.com)](https://fi.google.com) | Project Fi | `1.11` | | |
 | [![YouTube Gaming](https://www.google.com/s2/favicons?domain=https://gaming.youtube.com)](https://gaming.youtube.com) | YouTube Gaming | `1.11` | | |
+| [![YouTube music](https://www.google.com/s2/favicons?domain=https://music.youtube.com)](https://music.youtube.com) | YouTube Music | `1.11` | | |
 | [![YouTube](https://www.google.com/s2/favicons?domain=https://www.youtube.com)](https://www.youtube.com) | YouTube | `1.11` | | |
 
 ### Google Chrome
