@@ -22,13 +22,13 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [![Polymer (website)](https://www.google.com/s2/favicons?domain=https://www.polymer-project.org)](https://www.polymer-project.org) | Polymer (website) | `2.5` | ✅ | [Source](https://github.com/Polymer/docs) |
+| [![Polymer (website)](https://www.google.com/s2/favicons?domain=https://www.polymer-project.org)](https://www.polymer-project.org) | Polymer (website) | `2.6` | ✅ | [Source](https://github.com/Polymer/docs) |
 | [![~~Polymer Element Catalog~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://elements.polymer-project.org)](https://elements.polymer-project.org) | ~~Polymer Element Catalog~~ (deprecated) | `1.8` | | [Source](https://github.com/Polymer/polymer-element-catalog) |
 | [![Polymer Hacker News client (demo)](https://www.google.com/s2/favicons?domain=https://hn-polymer-2.firebaseapp.com/)](https://hn-polymer-2.firebaseapp.com/) | Polymer Hacker News client (demo) | `2.0` | ✅ | [Source](https://github.com/Polymer/hn-polymer-2) |
 | [![Polymer Indie elements catalog](https://www.google.com/s2/favicons?domain=https://polymerlabs.github.io/indie-catalog/)](https://polymerlabs.github.io/indie-catalog/) | Polymer Indie elements catalog | `2.0` | ✅ | [Source](https://github.com/PolymerLabs/indie-catalog) |
 | [![Polymer material design element demos](https://www.google.com/s2/favicons?domain=https://ebidel.github.io/material-playground/)](https://ebidel.github.io/material-playground/) | Polymer material design element demos | `2.0` | | [Source](https://github.com/ebidel/material-playground) |
-| [![Polymer News (demo)](https://www.google.com/s2/favicons?domain=https://news.polymer-project.org)](https://news.polymer-project.org) | Polymer News (demo) | `2.1` | ✅ | [Source](https://github.com/Polymer/news) |
-| [![Polymer Shop (demo)](https://www.google.com/s2/favicons?domain=https://shop.polymer-project.org)](https://shop.polymer-project.org) | Polymer Shop (demo) | `2.1` | ✅ | [Source](https://github.com/Polymer/shop) |
+| [![Polymer News (demo)](https://www.google.com/s2/favicons?domain=https://news.polymer-project.org)](https://news.polymer-project.org) | Polymer News (demo) | `2.6` | ✅ | [Source](https://github.com/Polymer/news) |
+| [![Polymer Shop (demo)](https://www.google.com/s2/favicons?domain=https://shop.polymer-project.org)](https://shop.polymer-project.org) | Polymer Shop (demo) | `2.6` | ✅ | [Source](https://github.com/Polymer/shop) |
 | [![Polymer Summit 2015](https://www.google.com/s2/favicons?domain=https://www.polymer-project.org/summit-2015)](https://www.polymer-project.org/summit-2015) | Polymer Summit 2015 | `1.1` | | |
 | [![Polymer Summit 2016](https://www.google.com/s2/favicons?domain=https://www.polymer-project.org/summit-2016)](https://www.polymer-project.org/summit-2016) | Polymer Summit 2016 | `1.1` | | |
 | [![Polymer Summit 2017](https://www.google.com/s2/favicons?domain=https://summit.polymer-project.org)](https://summit.polymer-project.org) | Polymer Summit 2017 | `2.0` | ✅ | [Source](https://github.com/Polymer/summit-2017) |
@@ -40,7 +40,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 | :-: | :--- | --------------: | :-: | -----: |
 | [![Google Allo](https://www.google.com/s2/favicons?domain=https://allo.google.com/web)](https://allo.google.com/web) | Google Allo | `1.11` | | |
 | [![Google Earth](https://www.google.com/s2/favicons?domain=https://earth.google.com/web/)](https://earth.google.com/web/) | Google Earth | `1.11` | | |
-| [![Google Maps APIs Styling Wizard](https://www.google.com/s2/favicons?domain=https://mapstyle.withgoogle.com)](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.7` | | |
+| [![Google Maps APIs Styling Wizard](https://www.google.com/s2/favicons?domain=https://mapstyle.withgoogle.com)](https://mapstyle.withgoogle.com) | Google Maps APIs Styling Wizard | `1.11` | | |
 | [![Google Patents](https://www.google.com/s2/favicons?domain=https://patents.google.com)](https://patents.google.com) | Google Patents | `1.11` | | |
 | [![Google Play Music](https://www.google.com/s2/favicons?domain=https://play.google.com/music)](https://play.google.com/music) | Google Play Music | `1.11` | | |
 | [![Google Santa Tracker 2014](https://www.google.com/s2/favicons?domain=https://santatracker.google.com)](https://santatracker.google.com) | Google Santa Tracker 2014 | `0.5.5` | | [Source](https://github.com/google/santa-tracker-web) |
@@ -82,7 +82,7 @@ To find the Polymer version, run `Polymer.version` in the Developer Tools Consol
 
 |     | Name | Polymer version | [PWA](https://developers.google.com/web/progressive-web-apps/ "Progressive Web App") | Source |
 | :-: | :--- | --------------: | :-: | -----: |
-| [![Facets](https://www.google.com/s2/favicons?domain=https://pair-code.github.io/facets/)](https://pair-code.github.io/facets/) | Facets | `1.8` | | [Source](https://github.com/pair-code/facets) |
+| [![Facets](https://www.google.com/s2/favicons?domain=https://pair-code.github.io/facets/)](https://pair-code.github.io/facets/) | Facets | `1.11` | | [Source](https://github.com/pair-code/facets) |
 | [![Google Developers Codelabs](https://www.google.com/s2/favicons?domain=https://codelabs.developers.google.com)](https://codelabs.developers.google.com) | Google Developers Codelabs | `master` | ✅ | |
 | [![Google I/O 2014 Codelabs](https://www.google.com/s2/favicons?domain=https://io2014codelabs.appspot.com)](https://io2014codelabs.appspot.com) | Google I/O 2014 Codelabs | `0.3.1` | | [Source](https://github.com/googlesamples/io2014-codelabs) |
 | [![Google I/O 2015](https://www.google.com/s2/favicons?domain=https://events.google.com/io2015/)](https://events.google.com/io2015/) | Google I/O 2015 | `0.5.5` | | [Source](https://github.com/GoogleChrome/ioweb2015) |
