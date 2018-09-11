@@ -101,7 +101,7 @@ Sorted alphabetically
 | :-: | :--- | --------------: | :-: | -----: |
 | [![AreaFiftyLAN](https://www.google.com/s2/favicons?domain=https://areafiftylan.nl)](https://areafiftylan.nl) | AreaFiftyLAN | `2.6` | | [Source](https://github.com/AreaFiftyLAN/lancie-frontend) |
 | [![AskApp](https://www.google.com/s2/favicons?domain=https://askapp-ddc29.firebaseapp.com)](https://askapp-ddc29.firebaseapp.com) | AskApp | `1.7` | | [Source](https://bitbucket.org/jordanhope/askapp) |
-| [![BassFace](https://www.google.com/s2/favicons?domain=https://bassface.dance)](https://bassface.dance) | BassFace | `2.1` | ✅ | |
+| [![BassFace](https://www.google.com/s2/favicons?domain=https://bassface.dance)](https://bassface.dance) | BassFace | `2.4` | ✅ | |
 | [![bitHound](https://www.google.com/s2/favicons?domain=https://www.bithound.io)](https://www.bithound.io) | bitHound | `1.2` | | |
 | [![BBVA API Market](https://www.google.com/s2/favicons?domain=https://www.bbvaapimarket.com)](https://www.bbvaapimarket.com) | BBVA API Market | `1.11` | | |
 | [![BlueMesh](https://www.google.com/s2/favicons?domain=https://bluemesh.com)](https://bluemesh.com) | BlueMesh | `1.9` | | |
@@ -110,13 +110,13 @@ Sorted alphabetically
 | [![Cerberus](https://www.google.com/s2/favicons?domain=https://www.cerberusapp.com)](https://www.cerberusapp.com) | Cerberus | `1.11` | | |
 | [![Cloudstitch](https://www.google.com/s2/favicons?domain=https://cloudstitch.com)](https://cloudstitch.com) | Cloudstitch | `2.0` | | |
 | - | Collaboration Tree (Demo) | `2.0` | ✅ | [Source](https://github.com/F4IF/ctree-demo) |
-| [![Comcast - XFINITY Home](https://www.google.com/s2/favicons?domain=https://home.xfinity.com)](https://home.xfinity.com) | Comcast - XFINITY Home | `1.9` | | |
-| [![Comcast - XFINITY TV](https://www.google.com/s2/favicons?domain=https://tv.xfinity.com)](https://tv.xfinity.com) | Comcast - XFINITY TV | `1.9` | | |
+| [![Comcast - XFINITY Home](https://www.google.com/s2/favicons?domain=https://home.xfinity.com)](https://home.xfinity.com) | Comcast - XFINITY Home | `1.11` | | |
+| [![Comcast - XFINITY TV](https://www.google.com/s2/favicons?domain=https://tv.xfinity.com)](https://tv.xfinity.com) | Comcast - XFINITY TV | `1.11` | | |
 | [![Crypto Trading hub](https://www.google.com/s2/favicons?domain=https://cryptotrading-hub.com/)](https://cryptotrading-hub.com/) | Crypto Trading hub | `2.0` | | [Source](https://github.com/anandanand84/technicalindicators) |
 | [![~~CustomElements~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://customelements.io)](https://customelements.io) | ~~CustomElements~~ (deprecated) | `1.1` | | [Source](https://github.com/customelements/www) |
 | [![Dloky](https://www.google.com/s2/favicons?domain=https://app.dloky.com)](https://app.dloky.com) | Dloky | `2.0` | | |
-| [![Electronic Arts (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com)](https://www.ea.com) | Electronic Arts (website) | `2.5` | | |
-| [![Electronic Arts - BattleField (website)](https://www.google.com/s2/favicons?domain=https://www.battlefield.com)](https://www.battlefield.com) | Electronic Arts - BattleField (website) | `2.5` | | |
+| [![Electronic Arts (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com)](https://www.ea.com) | Electronic Arts (website) | `2.6` | | |
+| [![Electronic Arts - BattleField (website)](https://www.google.com/s2/favicons?domain=https://www.battlefield.com)](https://www.battlefield.com) | Electronic Arts - BattleField (website) | `2.6` | | |
 | [![Electronic Arts - BattleFront II (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/starwars/battlefront/battlefront-2)](https://www.ea.com/games/starwars/battlefront/battlefront-2) | Electronic Arts - BattleFront II (website) | `1.11` | | |
 | [![Electronic Arts - FIFA 18 (website)](https://www.google.com/s2/favicons?domain=https://www.easports.com/fifa)](https://www.easports.com/fifa) | Electronic Arts - FIFA 18 (website) | `1.11` | | |
 | [![Electronic Arts - FIFA Mobile (website)](https://www.google.com/s2/favicons?domain=https://www.easports.com/fifa/fifa-mobile)](https://www.easports.com/fifa/fifa-mobile) | Electronic Arts - FIFA Mobile (website) | `1.11` | | |
@@ -124,18 +124,18 @@ Sorted alphabetically
 | [![Electronic Arts - Mass Effect (website)](https://www.google.com/s2/favicons?domain=https://www.masseffect.com)](https://www.masseffect.com) | Electronic Arts - Mass Effect (website) | `1.11` | | |
 | [![Electronic Arts - NBA Live 18 (website)](https://www.google.com/s2/favicons?domain=https://www.easports.com/nba-live)](https://www.easports.com/nba-live) | Electronic Arts - NBA Live 18 (website) | `1.11` | | |
 | [![Electronic Arts - NHL 18 (website)](https://www.google.com/s2/favicons?domain=https://www.easports.com/nhl)](https://www.easports.com/nhl) | Electronic Arts - NHL 18 (website) | `1.11` | | |
-| [![Electronic Arts - Plants vs Zombies 2 (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2)](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2) | Electronic Arts - Plants vs Zombies 2 (website) | `2.5` | | |
-| [![Electronic Arts - Plants vs Zombies Heroes (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-heroes)](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-heroes) | Electronic Arts - Plants vs Zombies Heroes (website) | `2.5` | | |
-| [![Electronic Arts - SimCity BuildIt (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/simcity/simcity-buildit)](https://www.ea.com/games/simcity/simcity-buildit) | Electronic Arts - SimCity BuildIt (website) | `2.5` | | |
-| [![Electronic Arts - Star Wars Galaxy of Heroes (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/starwars/galaxy-of-heroes)](https://www.ea.com/games/starwars/galaxy-of-heroes) | Electronic Arts - Star Wars Galaxy of Heroes (website) | `2.5` | | |
-| [![Electronic Arts - TitanFall II (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/titanfall/titanfall-2)](https://www.ea.com/games/titanfall/titanfall-2) | Electronic Arts - TitanFall II (website) | `2.5` | | |
+| [![Electronic Arts - Plants vs Zombies 2 (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2)](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-2) | Electronic Arts - Plants vs Zombies 2 (website) | `2.6` | | |
+| [![Electronic Arts - Plants vs Zombies Heroes (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-heroes)](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-heroes) | Electronic Arts - Plants vs Zombies Heroes (website) | `2.6` | | |
+| [![Electronic Arts - SimCity BuildIt (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/simcity/simcity-buildit)](https://www.ea.com/games/simcity/simcity-buildit) | Electronic Arts - SimCity BuildIt (website) | `2.6` | | |
+| [![Electronic Arts - Star Wars Galaxy of Heroes (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/starwars/galaxy-of-heroes)](https://www.ea.com/games/starwars/galaxy-of-heroes) | Electronic Arts - Star Wars Galaxy of Heroes (website) | `2.6` | | |
+| [![Electronic Arts - TitanFall II (website)](https://www.google.com/s2/favicons?domain=https://www.ea.com/games/titanfall/titanfall-2)](https://www.ea.com/games/titanfall/titanfall-2) | Electronic Arts - TitanFall II (website) | `2.6` | | |
 | [![Frontend Directory](https://www.google.com/s2/favicons?domain=https://frontend.directory)](https://frontend.directory) | Frontend Directory | `1.6` | | |
 | [![Festilo - A mobile local shopping app](https://www.google.com/s2/favicons?domain=https://festilo.com)](https://festilo.com) | Festilo - A mobile local shopping app | `1.9` | | |
 | [![Gitcheese](https://www.google.com/s2/favicons?domain=https://gitcheese.com)](https://gitcheese.com) | Gitcheese | `1.9` | | [Source](https://github.com/gitcheese/gitcheese.ui) |
 | [![Grow-IoT - An interoperable, FOSS framework for the Web of Things.](https://www.google.com/s2/favicons?domain=http://commongarden.org)](http://commongarden.org) | Grow-IoT - An interoperable, FOSS framework for the Web of Things. | `1.7` | | [Source](https://github.com/CommonGarden/Grow-IoT/) |
 | [![Home Assistant](https://www.google.com/s2/favicons?domain=https://home-assistant.io/demo/)](https://home-assistant.io/demo/) | Home Assistant | `1.6` | | [Source](https://github.com/home-assistant/home-assistant-polymer) |
 | [![~~HP Lookbook~~ (deprecated)](https://www.google.com/s2/favicons?domain=https://lookbook.hp.com/us/en/)](https://lookbook.hp.com/us/en/) | ~~HP Lookbook~~ (deprecated) | `1.8` | | |
-| [![Hoverboard -GDG DevFest website template-](https://www.google.com/s2/favicons?domain=https://hoverboard-master.firebaseapp.com/)](https://hoverboard-master.firebaseapp.com/) | Hoverboard -GDG DevFest website template- | `1.10` | ✅ | [Source](https://github.com/gdg-x/hoverboard) |
+| [![Hoverboard -GDG DevFest website template-](https://www.google.com/s2/favicons?domain=https://hoverboard-master.firebaseapp.com/)](https://hoverboard-master.firebaseapp.com/) | Hoverboard -GDG DevFest website template- | `2.6` | ✅ | [Source](https://github.com/gdg-x/hoverboard) |
 | [![IBM Bluemix console](https://www.google.com/s2/favicons?domain=https://console.bluemix.net)](https://console.bluemix.net) | IBM Bluemix console | `1.9` | | |
 | [![Kano](https://www.google.com/s2/favicons?domain=https://apps.kano.me)](https://apps.kano.me) | Kano | `1.10` | ✅ | |
 | [![Konga EZ](https://www.google.com/s2/favicons?domain=https://konga.com)](https://konga.com) | Konga EZ | `1.7` | ✅ | |
